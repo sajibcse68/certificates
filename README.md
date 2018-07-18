@@ -5,7 +5,7 @@
 |:---------:|:-----------------:|:----------------------------|
 | 09.07.18  | Udemy.com         | https://www.udemy.com/googlego/learn/v4/overview |
 
-![](images/the-complete-google-go-programming-course.jpg)
+<img src="images/the-complete-google-go-programming-course.jpg" alt="the-complete-google-go-programming-course" width="300px"/>
 
 #### 2. Google Analytics: Basic Principles
 
@@ -13,4 +13,13 @@
 |:---------:|:-----------------:|:----------------------------|
 | 16.07.18  | Udemy.com         | https://www.udemy.com/google-analytics-basic-principles/learn/v4/overview |
 
-![](images/google-analytics-basic-principles.jpg)
+<img src="images/google-analytics-basic-principles.jpg" alt="google-analytics-basic-principles" width="300px"/>
+
+
+#### 3. Git Real
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 16.07.18  | Udemy.com         | https://www.udemy.com/google-analytics-basic-principles/learn/v4/overview |
+
+<img src="images/completed-git-real.png" alt="git-real" width="300px"/>
