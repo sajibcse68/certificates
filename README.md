@@ -13,13 +13,13 @@
 |:---------:|:-----------------:|:----------------------------|
 | 16.07.18  | Udemy.com         | https://www.udemy.com/google-analytics-basic-principles/learn/v4/overview |
 
-<img src="images/google-analytics-basic-principles.jpg" alt="google-analytics-basic-principles" width="300px"/>
+<img src="images/analytics-basic-principles.jpg" alt="google-analytics-basic-principles" width="300px"/>
 
 
 #### 3. Git Real
 
 |    Date   | Organization      | Link                        |
 |:---------:|:-----------------:|:----------------------------|
-| 16.07.18  | Udemy.com         | https://www.udemy.com/google-analytics-basic-principles/learn/v4/overview |
+| -.-.15  | CodeSchool.com         | https://www.pluralsight.com/courses/code-school-git-real |
 
 <img src="images/completed-git-real.png" alt="git-real" width="300px"/>
