@@ -7,6 +7,7 @@
 
 <img src="images/the-complete-google-go-programming-course.jpg" alt="the-complete-google-go-programming-course" width="300px"/>
 
+
 #### 2. Google Analytics: Basic Principles
 
 |    Date   | Organization      | Link                        |
