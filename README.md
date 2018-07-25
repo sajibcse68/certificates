@@ -16,8 +16,15 @@
 
 <img src="images/analytics-basic-principles.jpg" alt="google-analytics-basic-principles" width="300px"/>
 
+#### 3. Productivity Hacks: Easy, Quick & Effective
 
-#### 3. Git Real
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 25.07.18  | Udemy.com         | https://www.udemy.com/productivityhacks/learn/v4/overview |
+
+<img src="images/productivity-hacks-easy-quick-effective.jpg" alt="productivity-hacks-easy-quick-effective" width="300px"/>
+
+#### 4. Git Real
 
 |    Date   | Organization      | Link                        |
 |:---------:|:-----------------:|:----------------------------|
