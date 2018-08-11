@@ -1,5 +1,5 @@
 
-#### 1. The Complete Google Go Programming Course
+#### The Complete Google Go Programming Course
 
 |    Date   | Organization      | Link                        |
 |:---------:|:-----------------:|:----------------------------|
@@ -8,7 +8,7 @@
 <img src="images/the-complete-google-go-programming-course.jpg" alt="the-complete-google-go-programming-course" width="300px"/>
 
 
-#### 2. Google Analytics: Basic Principles
+#### Google Analytics: Basic Principles
 
 |    Date   | Organization      | Link                        |
 |:---------:|:-----------------:|:----------------------------|
@@ -16,7 +16,15 @@
 
 <img src="images/analytics-basic-principles.jpg" alt="google-analytics-basic-principles" width="300px"/>
 
-#### 3. Productivity Hacks: Easy, Quick & Effective
+#### React Basics
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 11.08.18  | Udemy.com         | https://www.udemy.com/react-basic-in-just-1-hour/learn/v4/overview |
+
+<img src="images/react-basics.jpg" alt="react-basics" width="300px"/>
+
+#### Productivity Hacks: Easy, Quick & Effective
 
 |    Date   | Organization      | Link                        |
 |:---------:|:-----------------:|:----------------------------|
@@ -24,7 +32,7 @@
 
 <img src="images/productivity-hacks-easy-quick-effective.jpg" alt="productivity-hacks-easy-quick-effective" width="300px"/>
 
-#### 4. Git Real
+#### Git Real
 
 |    Date   | Organization      | Link                        |
 |:---------:|:-----------------:|:----------------------------|
