@@ -1,4 +1,12 @@
 
+#### JavaScript Algorithms and DataStructures Certification
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 12.08.18  | freecodecamp.com         | https://www.freecodecamp.org/certification/sajibcse68/javascript-algorithms-and-data-structures |
+
+<img src="images/fcc-JavaScript-algorithms-and-data-structures-certification.png" alt="JavaScript-algorithms-and-data-structures-certification" width="300px"/>
+
 #### The Complete Google Go Programming Course
 
 |    Date   | Organization      | Link                        |
