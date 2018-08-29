@@ -32,6 +32,14 @@
 
 <img src="images/react-basics.jpg" alt="react-basics" width="300px"/>
 
+#### React Fundamentals
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 27.08.18  | Udemy.com         | https://www.udemy.com/react-fundamentals/learn/v4/overview |
+
+<img src="images/react-fundamentals.jpg" alt="react-fundamentals" width="300px"/>
+
 #### Productivity Hacks: Easy, Quick & Effective
 
 |    Date   | Organization      | Link                        |
