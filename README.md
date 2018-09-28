@@ -56,6 +56,15 @@
 
 <img src="images/productivity-hacks-easy-quick-effective.jpg" alt="productivity-hacks-easy-quick-effective" width="300px"/>
 
+
+#### Mastering Personal Education: Personal Education for Success
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 26.09.18  | Udemy.com         | https://www.udemy.com/mastering-personal-education-personal-education-for-success |
+
+<img src="images/mastering-personal-education-personal-education-for-success.jpg" alt="mastering-personal-education-personal-education-for-success" width="300px"/>
+
 #### Git Real
 
 |    Date   | Organization      | Link                        |
