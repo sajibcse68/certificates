@@ -65,6 +65,17 @@
 
 <img src="images/mastering-personal-education-personal-education-for-success.jpg" alt="mastering-personal-education-personal-education-for-success" width="300px"/>
 
+
+## Git
+
+#### Git in Depth
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 07.10.18  | frontendmasters.com         | https://frontendmasters.com/courses/git-in-depth/ |
+
+<img src="images/git-in-depth.png" alt="git-in-depth" width="300px"/>
+
 #### Git Real
 
 |    Date   | Organization      | Link                        |
