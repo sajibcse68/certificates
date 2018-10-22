@@ -65,6 +65,17 @@
 
 <img src="images/mastering-personal-education-personal-education-for-success.jpg" alt="mastering-personal-education-personal-education-for-success" width="300px"/>
 
+## HTML & CSS
+
+#### The Ultimate HTML Developer
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 22.11.18  | udemy.com         | https://www.udemy.com/the-ultimate-html-developer |
+
+<img src="images/the-ultimate-html-developer.jpg" alt="the-ultimate-html-developer" width="300px"/>
+
+
 
 ## Git
 
