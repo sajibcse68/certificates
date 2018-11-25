@@ -65,6 +65,14 @@
 
 <img src="images/mastering-personal-education-personal-education-for-success.jpg" alt="mastering-personal-education-personal-education-for-success" width="300px"/>
 
+#### The Best Hacks To Improve Yourself
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 25.11.18  | Udemy.com         | https://www.udemy.com/personal-improvement-the-best-hacks-to-improve-yourself |
+
+<img src="images/the-best-hacks-to-improve-yourself.jpg" alt="the-best-hacks-to-improve-yourself" width="300px"/>
+
 ## HTML & CSS
 
 #### The Ultimate HTML Developer
