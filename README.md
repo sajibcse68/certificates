@@ -24,6 +24,14 @@
 
 <img src="images/analytics-basic-principles.jpg" alt="google-analytics-basic-principles" width="300px"/>
 
+#### Understanding Domain Name System (DNS)
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 6.01.19  | Udemy.com         | https://www.udemy.com/dnsguide/learn/v4/overview |
+
+<img src="images/understanding-domain-name-system.jpg" alt="understanding-domain-name-system" width="300px"/>
+
 #### React Vs Angular Vs Vue JS
 
 |    Date   | Organization      | Link                        |
