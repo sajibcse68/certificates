@@ -24,6 +24,14 @@
 
 <img src="images/analytics-basic-principles.jpg" alt="google-analytics-basic-principles" width="300px"/>
 
+#### JavaScript Console Object Ultimate Guide
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 3.02.18  | Udemy.com         | https://www.udemy.com/javascript-console-object-ultimate-guide/ |
+
+<img src="images/javascript-console-object-ultimate-guide.jpg" alt="javascript-console-object-ultimate-guide" width="300px"/>
+
 #### Understanding Domain Name System (DNS)
 
 |    Date   | Organization      | Link                        |
