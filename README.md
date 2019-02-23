@@ -24,6 +24,30 @@
 
 <img src="images/analytics-basic-principles.jpg" alt="google-analytics-basic-principles" width="300px"/>
 
+#### JavaScript Console Object Ultimate Guide
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 3.02.18  | Udemy.com         | https://www.udemy.com/javascript-console-object-ultimate-guide/ |
+
+<img src="images/javascript-console-object-ultimate-guide.jpg" alt="javascript-console-object-ultimate-guide" width="300px"/>
+
+#### Understanding Domain Name System (DNS)
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 6.01.19  | Udemy.com         | https://www.udemy.com/dnsguide/learn/v4/overview |
+
+<img src="images/understanding-domain-name-system.jpg" alt="understanding-domain-name-system" width="300px"/>
+
+#### Google Spreadsheet Basics
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 6.01.19  | Udemy.com         | https://www.udemy.com/dnsguide/learn/v4/overview |
+
+<img src="images/google-spreadsheet-basics.pdf" alt="google-spreadsheet-basics" width="300px"/>
+
 #### React Vs Angular Vs Vue JS
 
 |    Date   | Organization      | Link                        |
