@@ -7,6 +7,14 @@
 
 <img src="images/fcc-JavaScript-algorithms-and-data-structures-certification.png" alt="JavaScript-algorithms-and-data-structures-certification" width="300px"/>
 
+#### Vue Advanced Components Course
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 23.02.18  | vuemastery.com         | [https://www.freecodecamp.org/certification/sajibcse68/javascript-algorithms-and-data-structures](https://www.vuemastery.com/courses/advanced-components/the-introduction/) |
+
+<img src="images/advanced-components-course.png" alt="advanced-components-course" width="300px"/>
+
 #### The Complete Google Go Programming Course
 
 |    Date   | Organization      | Link                        |
