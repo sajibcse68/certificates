@@ -19,17 +19,18 @@
 
 |    Date   | Organization      | Link                        |
 |:---------:|:-----------------:|:----------------------------|
-| 24.02.18  | vuemastery.com         | [https://www.vuemastery.com/courses/real-world-vue-js/real-world-intro](https://www.vuemastery.com/courses/real-world-vue-js/real-world-intro) |
+| 24.02.18  | vuemastery.com         | [https://www.vuemastery.com/courses/mastering-vuex/intro-to-vuex](https://www.vuemastery.com/courses/mastering-vuex/intro-to-vuex) |
 
-<img src="images/real-world-vuejs-course.png" alt="real-world-vuejs-course" width="300px"/>
+<img src="images/mastering-vuex-course.png" alt="mastering-vuex-course" width="300px"/>
 
 #### Real World `Vue.js` Course
 
 |    Date   | Organization      | Link                        |
 |:---------:|:-----------------:|:----------------------------|
-| 23.02.18  | vuemastery.com         | [https://www.vuemastery.com/courses/mastering-vuex/intro-to-vuex](https://www.vuemastery.com/courses/mastering-vuex/intro-to-vuex) |
+| 23.02.18  | vuemastery.com         | [https://www.vuemastery.com/courses/real-world-vue-js/real-world-intro](https://www.vuemastery.com/courses/real-world-vue-js/real-world-intro) |
 
-<img src="images/mastering-vuex-course.png" alt="mastering-vuex-course" width="300px"/>
+<img src="images/real-world-vuejs-course.png" alt="real-world-vuejs-course" width="300px"/>
+
 
 #### The Complete Google Go Programming Course
 
