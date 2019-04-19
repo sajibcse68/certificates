@@ -1,11 +1,12 @@
+#### Front End Libraries
 
-#### JavaScript Algorithms and DataStructures Certification
+`Topics`: **React**, **Redux**, Bootstrap, jQuery
 
 |    Date   | Organization      | Link                        |
 |:---------:|:-----------------:|:----------------------------|
-| 12.08.18  | freecodecamp.com         | https://www.freecodecamp.org/certification/sajibcse68/javascript-algorithms-and-data-structures |
+| 20.04.19  | freecodecamp.com         | https://www.freecodecamp.org/certification/sajibcse68/front-end-libraries |
 
-<img src="images/fcc-JavaScript-algorithms-and-data-structures-certification.png" alt="JavaScript-algorithms-and-data-structures-certification" width="300px"/>
+<img src="images/fcc-front-end-libraries.png" alt="front-end-libraries" width="300px"/>
 
 #### `Vue Advanced` Components Course
 
@@ -14,6 +15,17 @@
 | 23.02.18  | vuemastery.com         | [https://www.vuemastery.com/courses/advanced-components/the-introduction/](https://www.vuemastery.com/courses/advanced-components/the-introduction/) |
 
 <img src="images/advanced-components-course.png" alt="advanced-components-course" width="300px"/>
+
+#### JavaScript Algorithms and DataStructures Certification
+
+`Topics`: Basic JavaScript, **ES6**, Regular Expression, Debugging, Basic Data Structure, Intermediate Algorithm Scripting, **Object Oriented Programming**, **Functional Programming**, 
+
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 12.08.18  | freecodecamp.com         | https://www.freecodecamp.org/certification/sajibcse68/javascript-algorithms-and-data-structures |
+
+<img src="images/fcc-JavaScript-algorithms-and-data-structures-certification.png" alt="JavaScript-algorithms-and-data-structures-certification" width="300px"/>
 
 #### Mastering in `Vuex` Course
 
