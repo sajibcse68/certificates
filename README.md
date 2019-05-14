@@ -12,7 +12,7 @@
 
 |    Date   | Organization      | Link                        |
 |:---------:|:-----------------:|:----------------------------|
-| 23.02.18  | vuemastery.com         | [https://www.vuemastery.com/courses/advanced-components/the-introduction/](https://www.vuemastery.com/courses/advanced-components/the-introduction/) |
+| 23.02.19  | vuemastery.com         | [https://www.vuemastery.com/courses/advanced-components/the-introduction/](https://www.vuemastery.com/courses/advanced-components/the-introduction/) |
 
 <img src="images/advanced-components-course.png" alt="advanced-components-course" width="300px"/>
 
@@ -23,7 +23,7 @@
 
 |    Date   | Organization      | Link                        |
 |:---------:|:-----------------:|:----------------------------|
-| 12.08.18  | freecodecamp.com         | https://www.freecodecamp.org/certification/sajibcse68/javascript-algorithms-and-data-structures |
+| 12.08.19  | freecodecamp.com         | https://www.freecodecamp.org/certification/sajibcse68/javascript-algorithms-and-data-structures |
 
 <img src="images/fcc-JavaScript-algorithms-and-data-structures-certification.png" alt="JavaScript-algorithms-and-data-structures-certification" width="300px"/>
 
@@ -31,7 +31,7 @@
 
 |    Date   | Organization      | Link                        |
 |:---------:|:-----------------:|:----------------------------|
-| 24.02.18  | vuemastery.com         | [https://www.vuemastery.com/courses/mastering-vuex/intro-to-vuex](https://www.vuemastery.com/courses/mastering-vuex/intro-to-vuex) |
+| 24.02.19  | vuemastery.com         | [https://www.vuemastery.com/courses/mastering-vuex/intro-to-vuex](https://www.vuemastery.com/courses/mastering-vuex/intro-to-vuex) |
 
 <img src="images/mastering-vuex-course.png" alt="mastering-vuex-course" width="300px"/>
 
@@ -39,7 +39,7 @@
 
 |    Date   | Organization      | Link                        |
 |:---------:|:-----------------:|:----------------------------|
-| 23.02.18  | vuemastery.com         | [https://www.vuemastery.com/courses/real-world-vue-js/real-world-intro](https://www.vuemastery.com/courses/real-world-vue-js/real-world-intro) |
+| 23.02.19  | vuemastery.com         | [https://www.vuemastery.com/courses/real-world-vue-js/real-world-intro](https://www.vuemastery.com/courses/real-world-vue-js/real-world-intro) |
 
 <img src="images/real-world-vuejs-course.png" alt="real-world-vuejs-course" width="300px"/>
 
