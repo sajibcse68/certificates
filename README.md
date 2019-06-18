@@ -1,3 +1,11 @@
+#### React: Components, Context and Accessibility
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 18.06.19  | linkedin.com         | https://www.linkedin.com/learning/react-components-context-and-accessibility |
+
+<img src="images/react-components-context-and-accessibility.png" alt="front-end-libraries" width="300px"/>
+
 #### Front End Libraries
 
 `Topics`: **React**, **Redux**, Bootstrap, jQuery
