@@ -6,6 +6,14 @@
 
 <img src="images/react-components-context-and-accessibility.png" alt="front-end-libraries" width="300px"/>
 
+#### GraphQL Essential Training
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 17.07.19  | linkedin.com         | https://www.linkedin.com/learning/graphql-essential-training |
+
+<img src="images/graphql-essential-training.png" alt="graphql-essential-training" width="300px"/>
+
 #### Front End Libraries
 
 `Topics`: **React**, **Redux**, Bootstrap, jQuery
