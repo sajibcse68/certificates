@@ -1,3 +1,11 @@
+#### Modern React with Redux
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 30.07.19  | udemy.com         | https://www.udemy.com/react-redux/ |
+
+<img src="images/modern-react-with-redux.png" alt="front-end-libraries" width="350px"/>
+
 #### React: Components, Context and Accessibility
 
 |    Date   | Organization      | Link                        |
