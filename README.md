@@ -160,6 +160,16 @@
 
 ## HTML & CSS
 
+#### Advanced Responsive Layouts with CSS Flexbox
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 09.11.19  | Lynda.com         | https://www.lynda.com/CSS-tutorials/Advanced-Responsive-Layouts-CSS-Flexbox/383780-2.html |
+
+<img src="images/advanced-responsive-layouts-with-css-flexbox.png" alt="advanced-responsive-layouts-with-css-flexbox" width="300px"/>
+
+**Topics:** ● Flexbox powered menu ● Responsive card layout ● The holy grail layout ● Animating content 
+
 #### The Ultimate HTML Developer
 
 |    Date   | Organization      | Link                        |
