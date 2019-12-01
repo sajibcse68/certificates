@@ -1,4 +1,4 @@
-#### Modern React with Redux
+## Modern React with Redux
 
 |    Date   | Organization      | Link                        |
 |:---------:|:-----------------:|:----------------------------|
@@ -6,7 +6,18 @@
 
 <img src="images/modern-react-with-redux.png" alt="front-end-libraries" width="350px"/>
 
-#### React: Components, Context and Accessibility
+## Redux Saga
+
+|    Date   | Author        | Organization      | Link                        |
+|:---------:|:-------------:|:-----------------:|:----------------------------|
+| 1.12.19   | Daniel Stern  | pluralsight.com   | https://www.pluralsight.com/courses/redux-saga |
+
+<img src="images/redux-saga.png" alt="redux-saga" width="350px"/>
+
+**Description:** The basis of any good, modern Redux application is the ability to orchestrate asynchronous calls to outside APIs, while working with the mostly synchronous language of JavaScript. In this course, Redux Saga, you'll learn the skills you need to vastly improve your Redux application performance and development time. Throughout the course, you'll be building a non-trivial shopping cart application, where users can add or remove cart items, see shipping and tax totals, and check out, all while keeping state synchronized with the server. First, you'll delve into Redux Saga, its uses and origins, and how it fits in with other Redux middlewares. Next, you'll explore nearly ever Redux Saga effect, each illustrated with an example. Finally, you'll discover Redux Saga channels, testing, and other advanced topics. By the end of this course, you'll have the necessary knowledge to build a whole application using Redux Saga.
+
+
+## React: Components, Context and Accessibility
 
 |    Date   | Organization      | Link                        |
 |:---------:|:-----------------:|:----------------------------|
@@ -14,7 +25,7 @@
 
 <img src="images/react-components-context-and-accessibility.png" alt="front-end-libraries" width="300px"/>
 
-#### GraphQL Essential Training
+## GraphQL Essential Training
 
 |    Date   | Organization      | Link                        |
 |:---------:|:-----------------:|:----------------------------|
@@ -22,7 +33,7 @@
 
 <img src="images/graphql-essential-training.png" alt="graphql-essential-training" width="300px"/>
 
-#### Front End Libraries
+## Front End Libraries
 
 `Topics`: **React**, **Redux**, Bootstrap, jQuery
 
@@ -32,7 +43,7 @@
 
 <img src="images/fcc-front-end-libraries.png" alt="front-end-libraries" width="300px"/>
 
-#### `Vue Advanced` Components Course
+## `Vue Advanced` Components Course
 
 |    Date   | Organization      | Link                        |
 |:---------:|:-----------------:|:----------------------------|
@@ -40,7 +51,7 @@
 
 <img src="images/advanced-components-course.png" alt="advanced-components-course" width="300px"/>
 
-#### JavaScript Algorithms and DataStructures Certification
+## JavaScript Algorithms and DataStructures Certification
 
 `Topics`: Basic JavaScript, **ES6**, Regular Expression, Debugging, Basic Data Structure, Intermediate Algorithm Scripting, **Object Oriented Programming**, **Functional Programming**, 
 
@@ -51,7 +62,7 @@
 
 <img src="images/fcc-JavaScript-algorithms-and-data-structures-certification.png" alt="JavaScript-algorithms-and-data-structures-certification" width="300px"/>
 
-#### Mastering in `Vuex` Course
+## Mastering in `Vuex` Course
 
 |    Date   | Organization      | Link                        |
 |:---------:|:-----------------:|:----------------------------|
@@ -59,7 +70,7 @@
 
 <img src="images/mastering-vuex-course.png" alt="mastering-vuex-course" width="300px"/>
 
-#### Real World `Vue.js` Course
+## Real World `Vue.js` Course
 
 |    Date   | Organization      | Link                        |
 |:---------:|:-----------------:|:----------------------------|
@@ -68,7 +79,7 @@
 <img src="images/real-world-vuejs-course.png" alt="real-world-vuejs-course" width="300px"/>
 
 
-#### The Complete Google Go Programming Course
+## The Complete Google Go Programming Course
 
 |    Date   | Organization      | Link                        |
 |:---------:|:-----------------:|:----------------------------|
@@ -77,7 +88,7 @@
 <img src="images/the-complete-google-go-programming-course.jpg" alt="the-complete-google-go-programming-course" width="300px"/>
 
 
-#### Google Analytics: Basic Principles
+## Google Analytics: Basic Principles
 
 |    Date   | Organization      | Link                        |
 |:---------:|:-----------------:|:----------------------------|
@@ -85,7 +96,7 @@
 
 <img src="images/analytics-basic-principles.jpg" alt="google-analytics-basic-principles" width="300px"/>
 
-#### JavaScript Console Object Ultimate Guide
+## JavaScript Console Object Ultimate Guide
 
 |    Date   | Organization      | Link                        |
 |:---------:|:-----------------:|:----------------------------|
@@ -93,7 +104,7 @@
 
 <img src="images/javascript-console-object-ultimate-guide.jpg" alt="javascript-console-object-ultimate-guide" width="300px"/>
 
-#### Understanding Domain Name System (DNS)
+## Understanding Domain Name System (DNS)
 
 |    Date   | Organization      | Link                        |
 |:---------:|:-----------------:|:----------------------------|
@@ -101,7 +112,7 @@
 
 <img src="images/understanding-domain-name-system.jpg" alt="understanding-domain-name-system" width="300px"/>
 
-#### Google Spreadsheet Basics
+## Google Spreadsheet Basics
 
 |    Date   | Organization      | Link                        |
 |:---------:|:-----------------:|:----------------------------|
@@ -109,7 +120,7 @@
 
 <img src="images/google-spreadsheet-basics.pdf" alt="google-spreadsheet-basics" width="300px"/>
 
-#### React Vs Angular Vs Vue JS
+## React Vs Angular Vs Vue JS
 
 |    Date   | Organization      | Link                        |
 |:---------:|:-----------------:|:----------------------------|
@@ -117,7 +128,7 @@
 
 <img src="images/react-vs-angular-vs-vue.jpg" alt="react-vs-angular-vs-vue" width="300px"/>
 
-#### React Basics
+## React Basics
 
 |    Date   | Organization      | Link                        |
 |:---------:|:-----------------:|:----------------------------|
@@ -125,7 +136,7 @@
 
 <img src="images/react-basics.jpg" alt="react-basics" width="300px"/>
 
-#### React Fundamentals
+## React Fundamentals
 
 |    Date   | Organization      | Link                        |
 |:---------:|:-----------------:|:----------------------------|
@@ -133,7 +144,7 @@
 
 <img src="images/react-fundamentals.jpg" alt="react-fundamentals" width="300px"/>
 
-#### Productivity Hacks: Easy, Quick & Effective
+## Productivity Hacks: Easy, Quick & Effective
 
 |    Date   | Organization      | Link                        |
 |:---------:|:-----------------:|:----------------------------|
@@ -142,7 +153,7 @@
 <img src="images/productivity-hacks-easy-quick-effective.jpg" alt="productivity-hacks-easy-quick-effective" width="300px"/>
 
 
-#### Mastering Personal Education: Personal Education for Success
+## Mastering Personal Education: Personal Education for Success
 
 |    Date   | Organization      | Link                        |
 |:---------:|:-----------------:|:----------------------------|
@@ -150,7 +161,7 @@
 
 <img src="images/mastering-personal-education-personal-education-for-success.jpg" alt="mastering-personal-education-personal-education-for-success" width="300px"/>
 
-#### The Best Hacks To Improve Yourself
+## The Best Hacks To Improve Yourself
 
 |    Date   | Organization      | Link                        |
 |:---------:|:-----------------:|:----------------------------|
@@ -158,9 +169,9 @@
 
 <img src="images/the-best-hacks-to-improve-yourself.jpg" alt="the-best-hacks-to-improve-yourself" width="300px"/>
 
-## HTML & CSS
+# HTML & CSS
 
-#### Advanced Responsive Layouts with CSS Flexbox
+## Advanced Responsive Layouts with CSS Flexbox
 
 |    Date   | Organization      | Link                        |
 |:---------:|:-----------------:|:----------------------------|
@@ -170,7 +181,7 @@
 
 **Topics:** ● Flexbox powered menu ● Responsive card layout ● The holy grail layout ● Animating content 
 
-#### The Ultimate HTML Developer
+## The Ultimate HTML Developer
 
 |    Date   | Organization      | Link                        |
 |:---------:|:-----------------:|:----------------------------|
@@ -180,9 +191,9 @@
 
 
 
-## Git
+# Git
 
-#### Git in Depth
+## Git in Depth
 
 |    Date   | Organization      | Link                        |
 |:---------:|:-----------------:|:----------------------------|
@@ -190,7 +201,7 @@
 
 <img src="images/git-in-depth.png" alt="git-in-depth" width="300px"/>
 
-#### Git Real
+## Git Real
 
 |    Date   | Organization      | Link                        |
 |:---------:|:-----------------:|:----------------------------|
