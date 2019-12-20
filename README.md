@@ -33,6 +33,16 @@
 
 <img src="images/graphql-essential-training.png" alt="graphql-essential-training" width="300px"/>
 
+## Webpack 4 Fundamentals
+
+|    Date   | Author        | Organization         | Link                        |
+|:---------:|:-------------:|:--------------------:|:----------------------------|
+| 20.12.10  | Sean Larkin   | frontendmasters.com  | https://frontendmasters.com/courses/webpack-fundamentals/ |
+
+<img src="images/webpack-4-fundamentals.png" alt="webpack-4-fundamentals" width="350px"/>
+
+**Description:** Learn the core concepts of Webpack 4 with Sean Larkin – maintainer of Webpack. You'll start entirely from scratch by adding webpack with npm and separate your dev and production environments. Then you'll learn to lazy load your JavaScript through code splitting, remove code you don't need through tree shaking, and control your entire build pipeline with popular loaders and plugins from the Webpack ecosystem. Be confident in building and shipping your code with Webpack – the open source bundler responsible for powering some of the most popular and high-performance web applications!
+
 ## Front End Libraries
 
 `Topics`: **React**, **Redux**, Bootstrap, jQuery
