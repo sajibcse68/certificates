@@ -74,7 +74,7 @@
 
 # Vue.js Courses
 
-## Scaling Vue with Nuxt.js
+## Scaling Vue with `Nuxt.js`
 
 |    Date   | Organization      | Link                        |
 |:---------:|:-----------------:|:----------------------------|
