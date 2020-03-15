@@ -72,6 +72,16 @@
 
 <img src="images/fcc-JavaScript-algorithms-and-data-structures-certification.png" alt="JavaScript-algorithms-and-data-structures-certification" width="300px"/>
 
+# Vue.js Courses
+
+## Scaling Vue with Nuxt.js
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 14.03.20  | vuemastery.com         | [https://www.vuemastery.com/courses/scaling-vue-with-nuxt-js/why-use-nuxt](https://www.vuemastery.com/courses/scaling-vue-with-nuxt-js/why-use-nuxt) |
+
+<img src="images/scaling-vue-with-nuxtjs.png" alt="scaling-vue-with-nuxtjs" width="300px"/>
+
 ## Mastering in `Vuex` Course
 
 |    Date   | Organization      | Link                        |
