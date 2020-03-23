@@ -1,3 +1,39 @@
+# Vue.js Courses
+
+## `Vue Advanced` Components Course
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 23.02.19  | vuemastery.com         | [https://www.vuemastery.com/courses/advanced-components/the-introduction/](https://www.vuemastery.com/courses/advanced-components/the-introduction/) |
+
+<img src="images/advanced-components-course.png" alt="advanced-components-course" width="300px"/>
+
+## Scaling Vue with `Nuxt.js`
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 14.03.20  | vuemastery.com         | [https://www.vuemastery.com/courses/scaling-vue-with-nuxt-js/why-use-nuxt](https://www.vuemastery.com/courses/scaling-vue-with-nuxt-js/why-use-nuxt) |
+
+<img src="images/scaling-vue-with-nuxtjs.png" alt="scaling-vue-with-nuxtjs" width="300px"/>
+
+## Mastering in `Vuex` Course
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 24.02.19  | vuemastery.com         | [https://www.vuemastery.com/courses/mastering-vuex/intro-to-vuex](https://www.vuemastery.com/courses/mastering-vuex/intro-to-vuex) |
+
+<img src="images/mastering-vuex-course.png" alt="mastering-vuex-course" width="300px"/>
+
+## Real World `Vue.js` Course
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 23.02.19  | vuemastery.com         | [https://www.vuemastery.com/courses/real-world-vue-js/real-world-intro](https://www.vuemastery.com/courses/real-world-vue-js/real-world-intro) |
+
+<img src="images/real-world-vuejs-course.png" alt="real-world-vuejs-course" width="300px"/>
+
+# React Courses
+
 ## Modern React with Redux
 
 |    Date   | Organization      | Link                        |
@@ -24,6 +60,61 @@
 | 18.06.19  | linkedin.com         | https://www.linkedin.com/learning/react-components-context-and-accessibility |
 
 <img src="images/react-components-context-and-accessibility.png" alt="front-end-libraries" width="300px"/>
+
+## React Vs Angular Vs Vue JS
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 13.02.18  | Udemy.com         | https://www.udemy.com/react-vs-angular-vs-vuejs-by-example/ |
+
+<img src="images/react-vs-angular-vs-vue.jpg" alt="react-vs-angular-vs-vue" width="300px"/>
+
+## React Basics
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 11.08.18  | Udemy.com         | https://www.udemy.com/react-basic-in-just-1-hour/learn/v4/overview |
+
+<img src="images/react-basics.jpg" alt="react-basics" width="300px"/>
+
+## React Fundamentals
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 27.08.18  | Udemy.com         | https://www.udemy.com/react-fundamentals/learn/v4/overview |
+
+<img src="images/react-fundamentals.jpg" alt="react-fundamentals" width="300px"/>
+
+# JavaScript Courses
+
+## EXPERT in JavaScript -- Skill Assessment at Pluralsight
+
+Score: 268 (98th Percentile!) 🔥🚀
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 24.03.20  | pluralsight.com  | https://www.pluralsight.com/ |
+
+<img src="images/javascript-expert.png" alt="javascript-expert" width="300px"/>
+
+## JavaScript Algorithms and DataStructures Certification
+
+`Topics`: Basic JavaScript, **ES6**, Regular Expression, Debugging, Basic Data Structure, Intermediate Algorithm Scripting, **Object Oriented Programming**, **Functional Programming**, 
+
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 12.08.19  | freecodecamp.com         | https://www.freecodecamp.org/certification/sajibcse68/javascript-algorithms-and-data-structures |
+
+<img src="images/fcc-JavaScript-algorithms-and-data-structures-certification.png" alt="JavaScript-algorithms-and-data-structures-certification" width="300px"/>
+
+## JavaScript Console Object Ultimate Guide
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 3.02.18  | Udemy.com         | https://www.udemy.com/javascript-console-object-ultimate-guide/ |
+
+<img src="images/javascript-console-object-ultimate-guide.jpg" alt="javascript-console-object-ultimate-guide" width="300px"/>
 
 ## GraphQL Essential Training
 
@@ -52,142 +143,6 @@
 | 20.04.19  | freecodecamp.com         | https://www.freecodecamp.org/certification/sajibcse68/front-end-libraries |
 
 <img src="images/fcc-front-end-libraries.png" alt="front-end-libraries" width="300px"/>
-
-## `Vue Advanced` Components Course
-
-|    Date   | Organization      | Link                        |
-|:---------:|:-----------------:|:----------------------------|
-| 23.02.19  | vuemastery.com         | [https://www.vuemastery.com/courses/advanced-components/the-introduction/](https://www.vuemastery.com/courses/advanced-components/the-introduction/) |
-
-<img src="images/advanced-components-course.png" alt="advanced-components-course" width="300px"/>
-
-## JavaScript Algorithms and DataStructures Certification
-
-`Topics`: Basic JavaScript, **ES6**, Regular Expression, Debugging, Basic Data Structure, Intermediate Algorithm Scripting, **Object Oriented Programming**, **Functional Programming**, 
-
-
-|    Date   | Organization      | Link                        |
-|:---------:|:-----------------:|:----------------------------|
-| 12.08.19  | freecodecamp.com         | https://www.freecodecamp.org/certification/sajibcse68/javascript-algorithms-and-data-structures |
-
-<img src="images/fcc-JavaScript-algorithms-and-data-structures-certification.png" alt="JavaScript-algorithms-and-data-structures-certification" width="300px"/>
-
-# Vue.js Courses
-
-## Scaling Vue with `Nuxt.js`
-
-|    Date   | Organization      | Link                        |
-|:---------:|:-----------------:|:----------------------------|
-| 14.03.20  | vuemastery.com         | [https://www.vuemastery.com/courses/scaling-vue-with-nuxt-js/why-use-nuxt](https://www.vuemastery.com/courses/scaling-vue-with-nuxt-js/why-use-nuxt) |
-
-<img src="images/scaling-vue-with-nuxtjs.png" alt="scaling-vue-with-nuxtjs" width="300px"/>
-
-## Mastering in `Vuex` Course
-
-|    Date   | Organization      | Link                        |
-|:---------:|:-----------------:|:----------------------------|
-| 24.02.19  | vuemastery.com         | [https://www.vuemastery.com/courses/mastering-vuex/intro-to-vuex](https://www.vuemastery.com/courses/mastering-vuex/intro-to-vuex) |
-
-<img src="images/mastering-vuex-course.png" alt="mastering-vuex-course" width="300px"/>
-
-## Real World `Vue.js` Course
-
-|    Date   | Organization      | Link                        |
-|:---------:|:-----------------:|:----------------------------|
-| 23.02.19  | vuemastery.com         | [https://www.vuemastery.com/courses/real-world-vue-js/real-world-intro](https://www.vuemastery.com/courses/real-world-vue-js/real-world-intro) |
-
-<img src="images/real-world-vuejs-course.png" alt="real-world-vuejs-course" width="300px"/>
-
-
-## The Complete Google Go Programming Course
-
-|    Date   | Organization      | Link                        |
-|:---------:|:-----------------:|:----------------------------|
-| 09.07.18  | Udemy.com         | https://www.udemy.com/googlego/learn/v4/overview |
-
-<img src="images/the-complete-google-go-programming-course.jpg" alt="the-complete-google-go-programming-course" width="300px"/>
-
-
-## Google Analytics: Basic Principles
-
-|    Date   | Organization      | Link                        |
-|:---------:|:-----------------:|:----------------------------|
-| 16.07.18  | Udemy.com         | https://www.udemy.com/google-analytics-basic-principles/learn/v4/overview |
-
-<img src="images/analytics-basic-principles.jpg" alt="google-analytics-basic-principles" width="300px"/>
-
-## JavaScript Console Object Ultimate Guide
-
-|    Date   | Organization      | Link                        |
-|:---------:|:-----------------:|:----------------------------|
-| 3.02.18  | Udemy.com         | https://www.udemy.com/javascript-console-object-ultimate-guide/ |
-
-<img src="images/javascript-console-object-ultimate-guide.jpg" alt="javascript-console-object-ultimate-guide" width="300px"/>
-
-## Understanding Domain Name System (DNS)
-
-|    Date   | Organization      | Link                        |
-|:---------:|:-----------------:|:----------------------------|
-| 6.01.19  | Udemy.com         | https://www.udemy.com/dnsguide/learn/v4/overview |
-
-<img src="images/understanding-domain-name-system.jpg" alt="understanding-domain-name-system" width="300px"/>
-
-## Google Spreadsheet Basics
-
-|    Date   | Organization      | Link                        |
-|:---------:|:-----------------:|:----------------------------|
-| 6.01.19  | Udemy.com         | https://www.udemy.com/dnsguide/learn/v4/overview |
-
-<img src="images/google-spreadsheet-basics.pdf" alt="google-spreadsheet-basics" width="300px"/>
-
-## React Vs Angular Vs Vue JS
-
-|    Date   | Organization      | Link                        |
-|:---------:|:-----------------:|:----------------------------|
-| 13.02.18  | Udemy.com         | https://www.udemy.com/react-vs-angular-vs-vuejs-by-example/ |
-
-<img src="images/react-vs-angular-vs-vue.jpg" alt="react-vs-angular-vs-vue" width="300px"/>
-
-## React Basics
-
-|    Date   | Organization      | Link                        |
-|:---------:|:-----------------:|:----------------------------|
-| 11.08.18  | Udemy.com         | https://www.udemy.com/react-basic-in-just-1-hour/learn/v4/overview |
-
-<img src="images/react-basics.jpg" alt="react-basics" width="300px"/>
-
-## React Fundamentals
-
-|    Date   | Organization      | Link                        |
-|:---------:|:-----------------:|:----------------------------|
-| 27.08.18  | Udemy.com         | https://www.udemy.com/react-fundamentals/learn/v4/overview |
-
-<img src="images/react-fundamentals.jpg" alt="react-fundamentals" width="300px"/>
-
-## Productivity Hacks: Easy, Quick & Effective
-
-|    Date   | Organization      | Link                        |
-|:---------:|:-----------------:|:----------------------------|
-| 25.07.18  | Udemy.com         | https://www.udemy.com/productivityhacks/learn/v4/overview |
-
-<img src="images/productivity-hacks-easy-quick-effective.jpg" alt="productivity-hacks-easy-quick-effective" width="300px"/>
-
-
-## Mastering Personal Education: Personal Education for Success
-
-|    Date   | Organization      | Link                        |
-|:---------:|:-----------------:|:----------------------------|
-| 26.09.18  | Udemy.com         | https://www.udemy.com/mastering-personal-education-personal-education-for-success |
-
-<img src="images/mastering-personal-education-personal-education-for-success.jpg" alt="mastering-personal-education-personal-education-for-success" width="300px"/>
-
-## The Best Hacks To Improve Yourself
-
-|    Date   | Organization      | Link                        |
-|:---------:|:-----------------:|:----------------------------|
-| 25.11.18  | Udemy.com         | https://www.udemy.com/personal-improvement-the-best-hacks-to-improve-yourself |
-
-<img src="images/the-best-hacks-to-improve-yourself.jpg" alt="the-best-hacks-to-improve-yourself" width="300px"/>
 
 # HTML & CSS
 
@@ -228,3 +183,63 @@
 | -.-.15  | CodeSchool.com         | https://www.pluralsight.com/courses/code-school-git-real |
 
 <img src="images/completed-git-real.png" alt="git-real" width="300px"/>
+
+# Miscellaneous
+
+## The Complete Google Go Programming Course
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 09.07.18  | Udemy.com         | https://www.udemy.com/googlego/learn/v4/overview |
+
+<img src="images/the-complete-google-go-programming-course.jpg" alt="the-complete-google-go-programming-course" width="300px"/>
+
+
+## Google Analytics: Basic Principles
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 16.07.18  | Udemy.com         | https://www.udemy.com/google-analytics-basic-principles/learn/v4/overview |
+
+<img src="images/analytics-basic-principles.jpg" alt="google-analytics-basic-principles" width="300px"/>
+
+## Productivity Hacks: Easy, Quick & Effective
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 25.07.18  | Udemy.com         | https://www.udemy.com/productivityhacks/learn/v4/overview |
+
+<img src="images/productivity-hacks-easy-quick-effective.jpg" alt="productivity-hacks-easy-quick-effective" width="300px"/>
+
+
+## Mastering Personal Education: Personal Education for Success
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 26.09.18  | Udemy.com         | https://www.udemy.com/mastering-personal-education-personal-education-for-success |
+
+<img src="images/mastering-personal-education-personal-education-for-success.jpg" alt="mastering-personal-education-personal-education-for-success" width="300px"/>
+
+## The Best Hacks To Improve Yourself
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 25.11.18  | Udemy.com         | https://www.udemy.com/personal-improvement-the-best-hacks-to-improve-yourself |
+
+<img src="images/the-best-hacks-to-improve-yourself.jpg" alt="the-best-hacks-to-improve-yourself" width="300px"/>
+
+## Understanding Domain Name System (DNS)
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 6.01.19  | Udemy.com         | https://www.udemy.com/dnsguide/learn/v4/overview |
+
+<img src="images/understanding-domain-name-system.jpg" alt="understanding-domain-name-system" width="300px"/>
+
+## Google Spreadsheet Basics
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 6.01.19  | Udemy.com         | https://www.udemy.com/dnsguide/learn/v4/overview |
+
+<img src="images/google-spreadsheet-basics.pdf" alt="google-spreadsheet-basics" width="300px"/>
