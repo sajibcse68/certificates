@@ -1,89 +1,38 @@
-# Vue.js Courses
-
-## `Vue Advanced` Components Course
-
-|    Date   | Organization      | Link                        |
-|:---------:|:-----------------:|:----------------------------|
-| 23.02.19  | vuemastery.com         | [https://www.vuemastery.com/courses/advanced-components/the-introduction/](https://www.vuemastery.com/courses/advanced-components/the-introduction/) |
-
-<img src="images/advanced-components-course.png" alt="advanced-components-course" width="300px"/>
-
-## Scaling Vue with `Nuxt.js`
-
-|    Date   | Organization      | Link                        |
-|:---------:|:-----------------:|:----------------------------|
-| 14.03.20  | vuemastery.com         | [https://www.vuemastery.com/courses/scaling-vue-with-nuxt-js/why-use-nuxt](https://www.vuemastery.com/courses/scaling-vue-with-nuxt-js/why-use-nuxt) |
-
-<img src="images/scaling-vue-with-nuxtjs.png" alt="scaling-vue-with-nuxtjs" width="300px"/>
-
-## Mastering in `Vuex` Course
-
-|    Date   | Organization      | Link                        |
-|:---------:|:-----------------:|:----------------------------|
-| 24.02.19  | vuemastery.com         | [https://www.vuemastery.com/courses/mastering-vuex/intro-to-vuex](https://www.vuemastery.com/courses/mastering-vuex/intro-to-vuex) |
-
-<img src="images/mastering-vuex-course.png" alt="mastering-vuex-course" width="300px"/>
-
-## Real World `Vue.js` Course
-
-|    Date   | Organization      | Link                        |
-|:---------:|:-----------------:|:----------------------------|
-| 23.02.19  | vuemastery.com         | [https://www.vuemastery.com/courses/real-world-vue-js/real-world-intro](https://www.vuemastery.com/courses/real-world-vue-js/real-world-intro) |
-
-<img src="images/real-world-vuejs-course.png" alt="real-world-vuejs-course" width="300px"/>
-
-# React Courses
-
-## Modern React with Redux
-
-|    Date   | Organization      | Link                        |
-|:---------:|:-----------------:|:----------------------------|
-| 30.07.19  | udemy.com         | https://www.udemy.com/react-redux/ |
-
-<img src="images/modern-react-with-redux.png" alt="front-end-libraries" width="350px"/>
-
-## Redux Saga
-
-|    Date   | Author        | Organization      | Link                        |
-|:---------:|:-------------:|:-----------------:|:----------------------------|
-| 1.12.19   | Daniel Stern  | pluralsight.com   | https://www.pluralsight.com/courses/redux-saga |
-
-<img src="images/redux-saga.png" alt="redux-saga" width="350px"/>
-
-**Description:** The basis of any good, modern Redux application is the ability to orchestrate asynchronous calls to outside APIs, while working with the mostly synchronous language of JavaScript. In this course, Redux Saga, you'll learn the skills you need to vastly improve your Redux application performance and development time. Throughout the course, you'll be building a non-trivial shopping cart application, where users can add or remove cart items, see shipping and tax totals, and check out, all while keeping state synchronized with the server. First, you'll delve into Redux Saga, its uses and origins, and how it fits in with other Redux middlewares. Next, you'll explore nearly ever Redux Saga effect, each illustrated with an example. Finally, you'll discover Redux Saga channels, testing, and other advanced topics. By the end of this course, you'll have the necessary knowledge to build a whole application using Redux Saga.
-
-
-## React: Components, Context and Accessibility
-
-|    Date   | Organization      | Link                        |
-|:---------:|:-----------------:|:----------------------------|
-| 18.06.19  | linkedin.com         | https://www.linkedin.com/learning/react-components-context-and-accessibility |
-
-<img src="images/react-components-context-and-accessibility.png" alt="front-end-libraries" width="300px"/>
-
-## React Vs Angular Vs Vue JS
-
-|    Date   | Organization      | Link                        |
-|:---------:|:-----------------:|:----------------------------|
-| 13.02.18  | Udemy.com         | https://www.udemy.com/react-vs-angular-vs-vuejs-by-example/ |
-
-<img src="images/react-vs-angular-vs-vue.jpg" alt="react-vs-angular-vs-vue" width="300px"/>
-
-## React Basics
-
-|    Date   | Organization      | Link                        |
-|:---------:|:-----------------:|:----------------------------|
-| 11.08.18  | Udemy.com         | https://www.udemy.com/react-basic-in-just-1-hour/learn/v4/overview |
-
-<img src="images/react-basics.jpg" alt="react-basics" width="300px"/>
-
-## React Fundamentals
-
-|    Date   | Organization      | Link                        |
-|:---------:|:-----------------:|:----------------------------|
-| 27.08.18  | Udemy.com         | https://www.udemy.com/react-fundamentals/learn/v4/overview |
-
-<img src="images/react-fundamentals.jpg" alt="react-fundamentals" width="300px"/>
+## Table of Contents
+- [JavaScript Courses](#javascript-courses)
+  - [EXPERT in JavaScript -- Skill Assessment at Pluralsight](#expert-in-javascript----skill-assessment-at-pluralsight)
+  - [JavaScript Algorithms and DataStructures Certification](#javascript-algorithms-and-datastructures-certification)
+  - [Front End Libraries](#front-end-libraries)
+  - [JavaScript Generators and Iterators](#javascript-generators-and-iterators)
+  - [JavaScript Console Object Ultimate Guide](#javascript-console-object-ultimate-guide)
+  - [GraphQL Essential Training](#graphql-essential-training)
+  - [Webpack 4 Fundamentals](#webpack-4-fundamentals)
+- [Vue.js Courses](#vuejs-courses)
+  - [Vue Advanced Components Course](#vue-advanced-components-course)
+  - [Scaling Vue with Nuxt.js](#scaling-vue-with-nuxtjs)
+  - [Mastering in Vuex Course](#mastering-in-vuex-course)
+  - [Real World Vue.js Course](#real-world-vuejs-course)
+- [React and Redux Courses](#react-and-redux-courses)
+  - [Modern React with Redux](#modern-react-with-redux)
+  - [Redux Saga](#redux-saga)
+  - [React: Components, Context and Accessibility](#react-components-context-and-accessibility)
+  - [React Vs Angular Vs Vue JS](#react-vs-angular-vs-vue-js)
+  - [React Basics](#react-basics)
+  - [React Fundamentals](#react-fundamentals)
+- [HTML & CSS](#html--css)
+  - [Advanced Responsive Layouts with CSS Flexbox](#advanced-responsive-layouts-with-css-flexbox)
+  - [The Ultimate HTML Developer](#the-ultimate-html-developer)
+- [Git](#git)
+  - [Git in Depth](#git-in-depth)
+  - [Git Real](#git-real)
+- [Miscellaneous](#miscellaneous)
+  - [The Complete Google Go Programming Course](#the-complete-google-go-programming-course)
+  - [Google Analytics: Basic Principles](#google-analytics-basic-principles)
+  - [Productivity Hacks: Easy, Quick & Effective](#productivity-hacks-easy-quick--effective)
+  - [Mastering Personal Education: Personal Education for Success](#mastering-personal-education-personal-education-for-success)
+  - [The Best Hacks To Improve Yourself](#the-best-hacks-to-improve-yourself)
+  - [Understanding Domain Name System (DNS)](#understanding-domain-name-system-dns)
+  - [Google Spreadsheet Basics](#google-spreadsheet-basics)
 
 # JavaScript Courses
 
@@ -153,6 +102,93 @@ Score: 268 (98th Percentile!) 🔥🚀
 <img src="images/webpack-4-fundamentals.png" alt="webpack-4-fundamentals" width="350px"/>
 
 **Description:** Learn the core concepts of Webpack 4 with Sean Larkin – maintainer of Webpack. You'll start entirely from scratch by adding webpack with npm and separate your dev and production environments. Then you'll learn to lazy load your JavaScript through code splitting, remove code you don't need through tree shaking, and control your entire build pipeline with popular loaders and plugins from the Webpack ecosystem. Be confident in building and shipping your code with Webpack – the open source bundler responsible for powering some of the most popular and high-performance web applications!
+
+# Vue.js Courses
+
+## `Vue Advanced` Components Course
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 23.02.19  | vuemastery.com         | [https://www.vuemastery.com/courses/advanced-components/the-introduction/](https://www.vuemastery.com/courses/advanced-components/the-introduction/) |
+
+<img src="images/advanced-components-course.png" alt="advanced-components-course" width="300px"/>
+
+## Scaling Vue with `Nuxt.js`
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 14.03.20  | vuemastery.com         | [https://www.vuemastery.com/courses/scaling-vue-with-nuxt-js/why-use-nuxt](https://www.vuemastery.com/courses/scaling-vue-with-nuxt-js/why-use-nuxt) |
+
+<img src="images/scaling-vue-with-nuxtjs.png" alt="scaling-vue-with-nuxtjs" width="300px"/>
+
+## Mastering in `Vuex` Course
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 24.02.19  | vuemastery.com         | [https://www.vuemastery.com/courses/mastering-vuex/intro-to-vuex](https://www.vuemastery.com/courses/mastering-vuex/intro-to-vuex) |
+
+<img src="images/mastering-vuex-course.png" alt="mastering-vuex-course" width="300px"/>
+
+## Real World `Vue.js` Course
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 23.02.19  | vuemastery.com         | [https://www.vuemastery.com/courses/real-world-vue-js/real-world-intro](https://www.vuemastery.com/courses/real-world-vue-js/real-world-intro) |
+
+<img src="images/real-world-vuejs-course.png" alt="real-world-vuejs-course" width="300px"/>
+
+# React and Redux Courses
+
+## Modern React with Redux
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 30.07.19  | udemy.com         | https://www.udemy.com/react-redux/ |
+
+<img src="images/modern-react-with-redux.png" alt="front-end-libraries" width="350px"/>
+
+## Redux Saga
+
+|    Date   | Author        | Organization      | Link                        |
+|:---------:|:-------------:|:-----------------:|:----------------------------|
+| 1.12.19   | Daniel Stern  | pluralsight.com   | https://www.pluralsight.com/courses/redux-saga |
+
+<img src="images/redux-saga.png" alt="redux-saga" width="350px"/>
+
+**Description:** The basis of any good, modern Redux application is the ability to orchestrate asynchronous calls to outside APIs, while working with the mostly synchronous language of JavaScript. In this course, Redux Saga, you'll learn the skills you need to vastly improve your Redux application performance and development time. Throughout the course, you'll be building a non-trivial shopping cart application, where users can add or remove cart items, see shipping and tax totals, and check out, all while keeping state synchronized with the server. First, you'll delve into Redux Saga, its uses and origins, and how it fits in with other Redux middlewares. Next, you'll explore nearly ever Redux Saga effect, each illustrated with an example. Finally, you'll discover Redux Saga channels, testing, and other advanced topics. By the end of this course, you'll have the necessary knowledge to build a whole application using Redux Saga.
+
+
+## React: Components, Context and Accessibility
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 18.06.19  | linkedin.com         | https://www.linkedin.com/learning/react-components-context-and-accessibility |
+
+<img src="images/react-components-context-and-accessibility.png" alt="front-end-libraries" width="300px"/>
+
+## React Vs Angular Vs Vue JS
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 13.02.18  | Udemy.com         | https://www.udemy.com/react-vs-angular-vs-vuejs-by-example/ |
+
+<img src="images/react-vs-angular-vs-vue.jpg" alt="react-vs-angular-vs-vue" width="300px"/>
+
+## React Basics
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 11.08.18  | Udemy.com         | https://www.udemy.com/react-basic-in-just-1-hour/learn/v4/overview |
+
+<img src="images/react-basics.jpg" alt="react-basics" width="300px"/>
+
+## React Fundamentals
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 27.08.18  | Udemy.com         | https://www.udemy.com/react-fundamentals/learn/v4/overview |
+
+<img src="images/react-fundamentals.jpg" alt="react-fundamentals" width="300px"/>
 
 # HTML & CSS
 
