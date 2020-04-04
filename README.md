@@ -71,17 +71,27 @@ Score: 268 (98th Percentile!) 🔥🚀
 
 `Topics`: Iterators and Iterables, Generator functions, Cancelable async flows.
 
-|    Date   | Organization      | Link                        |
-|:---------:|:-----------------:|:----------------------------|
-| 05.04.20  | pluralsight.com   | https://app.pluralsight.com/library/courses/javascript-generators-iterators |
+|    Date      | Organization      | Link                        |
+|:------------:|:-----------------:|:----------------------------|
+| 05 Apr 2020  | pluralsight.com   | https://app.pluralsight.com/library/courses/javascript-generators-iterators |
 
 <img src="images/javascript-generators-and-iterators.png" alt="javascript-generators-and-iterators" width="300px"/>
 
+## Working with JavaScript Modules
+
+`Topics`: Various way to export, import or, use javascript modules.
+
+|    Date      | Organization      | Link                        |
+|:------------:|:-----------------:|:----------------------------|
+| 06 Apr 2020  | pluralsight.com   | https://app.pluralsight.com/library/courses/working-javascript-modules |
+
+<img src="images/working-with-javascript-modules.png" alt="working-with-javascript-modules" width="300px"/>
+
 ## JavaScript Console Object Ultimate Guide
 
-|    Date   | Organization      | Link                        |
-|:---------:|:-----------------:|:----------------------------|
-| 3.02.18  | Udemy.com         | https://www.udemy.com/javascript-console-object-ultimate-guide/ |
+|    Date     | Organization      | Link                        |
+|:---------  :|:-----------------:|:----------------------------|
+| 3.02.18     | Udemy.com         | https://www.udemy.com/javascript-console-object-ultimate-guide/ |
 
 <img src="images/javascript-console-object-ultimate-guide.jpg" alt="javascript-console-object-ultimate-guide" width="300px"/>
 
