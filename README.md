@@ -4,6 +4,7 @@
   - [JavaScript Algorithms and DataStructures Certification](#javascript-algorithms-and-datastructures-certification)
   - [Front End Libraries](#front-end-libraries)
   - [JavaScript Generators and Iterators](#javascript-generators-and-iterators)
+  - [Working with JavaScript Modules](#working-with-javascript-modules)
   - [JavaScript Console Object Ultimate Guide](#javascript-console-object-ultimate-guide)
   - [GraphQL Essential Training](#graphql-essential-training)
   - [Webpack 4 Fundamentals](#webpack-4-fundamentals)
