@@ -108,6 +108,26 @@ Score: 268 (98th Percentile!) 🔥🚀
 
 <img src="images/fcc-JavaScript-algorithms-and-data-structures-certification.png" alt="JavaScript-algorithms-and-data-structures-certification" width="300px"/>
 
+## Front End Libraries
+
+`Topics`: **React**, **Redux**, Bootstrap, jQuery
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 20.04.19  | freecodecamp.com         | https://www.freecodecamp.org/certification/sajibcse68/front-end-libraries |
+
+<img src="images/fcc-front-end-libraries.png" alt="front-end-libraries" width="300px"/>
+
+## JavaScript Generators and Iterators
+
+`Topics`: Iterators and Iterables, Generator functions, Cancelable async flows.
+
+|    Date   | Organization      | Link                        |
+|:---------:|:-----------------:|:----------------------------|
+| 05.04.20  | pluralsight.com   | https://app.pluralsight.com/library/courses/javascript-generators-iterators |
+
+<img src="images/javascript-generators-and-iterators.png" alt="javascript-generators-and-iterators" width="300px"/>
+
 ## JavaScript Console Object Ultimate Guide
 
 |    Date   | Organization      | Link                        |
@@ -133,16 +153,6 @@ Score: 268 (98th Percentile!) 🔥🚀
 <img src="images/webpack-4-fundamentals.png" alt="webpack-4-fundamentals" width="350px"/>
 
 **Description:** Learn the core concepts of Webpack 4 with Sean Larkin – maintainer of Webpack. You'll start entirely from scratch by adding webpack with npm and separate your dev and production environments. Then you'll learn to lazy load your JavaScript through code splitting, remove code you don't need through tree shaking, and control your entire build pipeline with popular loaders and plugins from the Webpack ecosystem. Be confident in building and shipping your code with Webpack – the open source bundler responsible for powering some of the most popular and high-performance web applications!
-
-## Front End Libraries
-
-`Topics`: **React**, **Redux**, Bootstrap, jQuery
-
-|    Date   | Organization      | Link                        |
-|:---------:|:-----------------:|:----------------------------|
-| 20.04.19  | freecodecamp.com         | https://www.freecodecamp.org/certification/sajibcse68/front-end-libraries |
-
-<img src="images/fcc-front-end-libraries.png" alt="front-end-libraries" width="300px"/>
 
 # HTML & CSS
 
