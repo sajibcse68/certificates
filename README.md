@@ -27,6 +27,7 @@
   - [Git in Depth](#git-in-depth)
   - [Git Real](#git-real)
 - [Miscellaneous](#miscellaneous)
+  - [Get Involved](#get-involved)
   - [The Complete Google Go Programming Course](#the-complete-google-go-programming-course)
   - [Google Analytics: Basic Principles](#google-analytics-basic-principles)
   - [Productivity Hacks: Easy, Quick & Effective](#productivity-hacks-easy-quick--effective)
