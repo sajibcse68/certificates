@@ -243,6 +243,14 @@ Score: 268 (98th Percentile!) 🔥🚀
 
 # Miscellaneous
 
+## Get Involved
+
+|    Date      | Organization      | Link                        |
+|:------------:|:-----------------:|:----------------------------|
+| 11 Apr 2020  | pluralsight.com   | https://app.pluralsight.com/library/courses/get-involved |
+
+<img src="images/get-involved.png" alt="get-involved" width="300px"/>
+
 ## The Complete Google Go Programming Course
 
 |    Date   | Organization      | Link                        |
