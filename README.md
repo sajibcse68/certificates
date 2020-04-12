@@ -80,7 +80,9 @@ Score: 268 (98th Percentile!) 🔥🚀
 |:------------:|:-----------------:|:----------------------------|
 | 05 Apr 2020  | pluralsight.com   | https://app.pluralsight.com/library/courses/javascript-generators-iterators |
 
-<img src="images/javascript-generators-and-iterators.png" alt="javascript-generators-and-iterators" width="300px"/>
+<img src="images/javascript-generators-and-iterators-cert.png" alt="javascript-generators-and-iterators-cert" width="300px"/>
+
+<img src="images/javascript-generators-and-iterators.png" alt="javascript-generators-and-iterators" width="300px" height="205"/>
 
 ## Working with JavaScript Modules
 
@@ -90,7 +92,9 @@ Score: 268 (98th Percentile!) 🔥🚀
 |:------------:|:-----------------:|:----------------------------|
 | 06 Apr 2020  | pluralsight.com   | https://app.pluralsight.com/library/courses/working-javascript-modules |
 
-<img src="images/working-with-javascript-modules.png" alt="working-with-javascript-modules" width="300px"/>
+<img src="images/working-with-javascript-modules-cert.png" alt="working-with-javascript-modules-cert" width="300px"/>
+
+<img src="images/working-with-javascript-modules.png" alt="working-with-javascript-modules" width="300px" height="205"/>
 
 ## JavaScript Console Object Ultimate Guide
 
@@ -226,7 +230,9 @@ Score: 268 (98th Percentile!) 🔥🚀
 |:------------:|:-----------------:|:----------------------------|
 | 12 Apr 2020  | Pluralsight   | https://app.pluralsight.com/library/courses/data-visualization-best-practices |
 
-<img src="images/data-visualization-best-practices.png" alt="data-visualization-best-practices" width="300px"/>
+<img src="images/data-visualization-best-practices-cert.png" alt="data-visualization-best-practices-cert" width="300px"/>
+
+<img src="images/data-visualization-best-practices.png" alt="data-visualization-best-practices" width="300px" height="205"/>
 
 # HTML & CSS
 
@@ -274,7 +280,9 @@ Score: 268 (98th Percentile!) 🔥🚀
 |:------------:|:-----------------:|:----------------------------|
 | 11 Apr 2020  | pluralsight.com   | https://app.pluralsight.com/library/courses/get-involved |
 
-<img src="images/get-involved.png" alt="get-involved" width="300px"/>
+<img src="images/get-involved-cert.png" alt="get-involved-cert" width="300px"/>
+
+<img src="images/get-involved.png" alt="get-involved" width="300px" height="205"/>
 
 ## The Complete Google Go Programming Course
 
