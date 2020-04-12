@@ -21,6 +21,7 @@
   - [React Basics](#react-basics)
   - [React Fundamentals](#react-fundamentals)
 - [Data Visualization](#data-visualization)
+  - [Data Visualization for React Developers](#data-visualization-for-react-developers)
   - [Data Visualization Best Practices](#data-visualization-best-practices)
 - [HTML & CSS](#html--css)
   - [Advanced Responsive Layouts with CSS Flexbox](#advanced-responsive-layouts-with-css-flexbox)
@@ -206,13 +207,24 @@ Score: 268 (98th Percentile!) 🔥🚀
 
 # Data Visualization
 
+## Data Visualization for React Developers
+
+**Topics:** ● The Basic Chart Types ● Introduction to SVG ● Data to SVG Shapes ● Line ● Radial ● Rendering with React ● Axes, Legends, Annotations ● Transitions ● Brush ● Canvas
+
+
+|    Date      |    Author   | Organization      | Link                        |
+|:------------:|:-----------:|:-----------------:|:----------------------------|
+| 06 Apr 2020  | Shirley Wu  | frontendmasters   | https://frontendmasters.com/courses/d3-js-react/ |
+
+<img src="images/data-visualization-for-react-developers.png" alt="data-visualization-for-react-developers" width="300px"/>
+
 ## Data Visualization Best Practices
 
 **Topics:** ● Bar chart ● Line chart ● Scatter plots ● Waffle chart ● Pie chart ● Simple text ● Text tables ● Pre-attentive attributes
 
 |    Date      | Organization      | Link                        |
 |:------------:|:-----------------:|:----------------------------|
-| 12 Apr 2020  | Pluralsight.com   | https://app.pluralsight.com/library/courses/data-visualization-best-practices |
+| 12 Apr 2020  | Pluralsight   | https://app.pluralsight.com/library/courses/data-visualization-best-practices |
 
 <img src="images/data-visualization-best-practices.png" alt="data-visualization-best-practices" width="300px"/>
 
