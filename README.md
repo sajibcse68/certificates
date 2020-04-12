@@ -20,6 +20,8 @@
   - [React Vs Angular Vs Vue JS](#react-vs-angular-vs-vue-js)
   - [React Basics](#react-basics)
   - [React Fundamentals](#react-fundamentals)
+- [Data Visualization](#data-visualization)
+  - [Data Visualization Best Practices](#data-visualization-best-practices)
 - [HTML & CSS](#html--css)
   - [Advanced Responsive Layouts with CSS Flexbox](#advanced-responsive-layouts-with-css-flexbox)
   - [The Ultimate HTML Developer](#the-ultimate-html-developer)
@@ -202,6 +204,18 @@ Score: 268 (98th Percentile!) 🔥🚀
 
 <img src="images/react-fundamentals.jpg" alt="react-fundamentals" width="300px"/>
 
+# Data Visualization
+
+## Data Visualization Best Practices
+
+**Topics:** ● Bar chart ● Line chart ● Scatter plots ● Waffle chart ● Pie chart ● Simple text ● Text tables ● Pre-attentive attributes
+
+|    Date      | Organization      | Link                        |
+|:------------:|:-----------------:|:----------------------------|
+| 12 Apr 2020  | Pluralsight.com   | https://app.pluralsight.com/library/courses/data-visualization-best-practices |
+
+<img src="images/data-visualization-best-practices.png" alt="data-visualization-best-practices" width="300px"/>
+
 # HTML & CSS
 
 ## Advanced Responsive Layouts with CSS Flexbox
@@ -221,8 +235,6 @@ Score: 268 (98th Percentile!) 🔥🚀
 | 22.11.18  | udemy.com         | https://www.udemy.com/the-ultimate-html-developer |
 
 <img src="images/the-ultimate-html-developer.jpg" alt="the-ultimate-html-developer" width="300px"/>
-
-
 
 # Git
 
