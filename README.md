@@ -209,6 +209,18 @@ Score: 268 (98th Percentile!) 🔥🚀
 
 <img src="images/react-fundamentals.jpg" alt="react-fundamentals" width="300px"/>
 
+# Node.js Courses
+
+## Node.js Getting Started
+
+`Topics`: Modern JavaScript, NPM, NPX, Module & concurrency, Event loop, Errors vs exceptions, Event emitters, Working with web server, working with operating system, Child process.
+
+|    Date      | Author      | Organization    | Link                        |
+|:------------:|:-----------:|:---------------:|:----------------------------|
+| 19 Apr 2020  | Samer Buna  | pluralsight.com | https://app.pluralsight.com/library/courses/nodejs-getting-started |
+
+<img src="images/nodejs-getting-started.png" alt="nodejs-getting-started" width="300px"/>
+
 # Data Visualization
 
 ## Data Visualization for React Developers
