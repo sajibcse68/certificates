@@ -14,6 +14,7 @@
   - [Mastering in Vuex Course](#mastering-in-vuex-course)
   - [Real World Vue.js Course](#real-world-vuejs-course)
 - [React and Redux Courses](#react-and-redux-courses)
+  - [Optimize Performance for React](#optimize-performance-for-react)
   - [Modern React with Redux](#modern-react-with-redux)
   - [Redux Saga](#redux-saga)
   - [React: Components, Context and Accessibility](#react-components-context-and-accessibility)
@@ -23,6 +24,8 @@
 - [Data Visualization](#data-visualization)
   - [Data Visualization for React Developers](#data-visualization-for-react-developers)
   - [Data Visualization Best Practices](#data-visualization-best-practices)
+- [Node.js Courses](#nodejs-courses)
+  - [Node.js Getting Started](#nodejs-getting-started)
 - [HTML & CSS](#html--css)
   - [Advanced Responsive Layouts with CSS Flexbox](#advanced-responsive-layouts-with-css-flexbox)
   - [The Ultimate HTML Developer](#the-ultimate-html-developer)
@@ -157,6 +160,14 @@ Score: 268 (98th Percentile!) 🔥🚀
 <img src="images/real-world-vuejs-course.png" alt="real-world-vuejs-course" width="300px"/>
 
 # React and Redux Courses
+
+## Optimize Performance for React
+
+|    Date      | Author            | Organization      | Link                        |
+|:------------:|:-----------------:|:-----------------:|:----------------------------|
+| 20 Apr 2020  | Hendrik Swanepoel | pluralsight.com   | https://app.pluralsight.com/library/courses/optimize-performance-react/ |
+
+<img src="images/optimize-performance-for-react.png" alt="optimize-performance-for-react" width="350px"/>
 
 ## Modern React with Redux
 
