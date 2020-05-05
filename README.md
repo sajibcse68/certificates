@@ -16,6 +16,7 @@
 - [React and Redux Courses](#react-and-redux-courses)
   - [Optimize Performance for React](#optimize-performance-for-react)
   - [Modern React with Redux](#modern-react-with-redux)
+  - [Styling React Component](#styling-react-component)
   - [Redux Saga](#redux-saga)
   - [React: Components, Context and Accessibility](#react-components-context-and-accessibility)
   - [React Vs Angular Vs Vue JS](#react-vs-angular-vs-vue-js)
@@ -176,6 +177,16 @@ Score: 268 (98th Percentile!) 🔥🚀
 | 30.07.19  | udemy.com         | https://www.udemy.com/react-redux/ |
 
 <img src="images/modern-react-with-redux.png" alt="front-end-libraries" width="350px"/>
+
+## Styling React Component
+
+`Topics`: UIs in React, Inline Styles, Radium, A Webpack into to CSS, CSS stylesheet, CSS Modules
+
+|    Date      | Organization      | Link                        |
+|:------------:|:-----------------:|:----------------------------|
+| 02 Apr 2020  | pluralsight.com   | https://www.pluralsight.com/courses/react-styling-components |
+
+<img src="images/styling-components.png" alt="styling-components" width="350px"/>
 
 ## Redux Saga
 
