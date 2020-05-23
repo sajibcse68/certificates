@@ -26,6 +26,7 @@
   - [Data Visualization for React Developers](#data-visualization-for-react-developers)
   - [Data Visualization Best Practices](#data-visualization-best-practices)
 - [Node.js Courses](#nodejs-courses)
+  - [Node.js Debugging and Performance Tuning](#nodejs-debugging-and-performance-tuning)
   - [Node.js Getting Started](#nodejs-getting-started)
 - [HTML & CSS](#html--css)
   - [Advanced Responsive Layouts with CSS Flexbox](#advanced-responsive-layouts-with-css-flexbox)
@@ -232,6 +233,16 @@ Score: 268 (98th Percentile!) 🔥🚀
 <img src="images/react-fundamentals.jpg" alt="react-fundamentals" width="300px"/>
 
 # Node.js Courses
+
+## Node.js Debugging and Performance Tuning
+
+`Topics`: Build a troubleshooting mindset, Introducing microservices, Efective logging strategies, Debugging nodejs applications, Measuring performance.
+
+|    Date      | Author    | Organization    | Link                        |
+|:------------:|:---------:|:---------------:|:----------------------------|
+| 23 May 2020  | Jon Peck  | linkedin.com | https://www.linkedin.com/learning/node-js-debugging-and-performance-tuning |
+
+<img src="images/nodejs-debugging-and-performance-tuning.png" alt="nodejs-debugging-and-performance-tuning" width="300px"/>
 
 ## Node.js Getting Started
 
