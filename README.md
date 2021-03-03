@@ -346,6 +346,14 @@ Score: 268 (98th Percentile!) 🔥🚀
 
 <img src="images/analytics-basic-principles.jpg" alt="google-analytics-basic-principles" width="300px"/>
 
+## Time Management for Professionals
+
+|    Date      | Organization      | Link                        |
+|:------------:|:-----------------:|:----------------------------|
+| 03 Mar 2021  | Udemy.com         | https://www.udemy.com/course/time-management-for-professionals |
+
+<img src="images/time_management_for_professionals.jpg" alt="time_management_for_professionals" width="300px"/>
+
 ## Productivity Hacks: Easy, Quick & Effective
 
 |    Date   | Organization      | Link                        |
