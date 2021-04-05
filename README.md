@@ -179,13 +179,23 @@ Score: 268 (98th Percentile!) 🔥🚀
 
 <img src="images/optimize-performance-for-react.png" alt="optimize-performance-for-react" width="350px"/>
 
+## The Ultimate Redux Course
+
+|    Date      | Organization       | Link                        |
+|:------------:|:------------------:|:----------------------------|
+| 31 Mar 2021  | codewithmosh.com/  | https://codewithmosh.com/p/ultimate-redux |
+
+<img src="images/the-ultimate-redux-course.png" alt="the-ultimate-redux-course" width="350px"/>
+
+**Will Learn**: - What Redux is and when to use it, - Essential functional programming principles, - Use Redux Toolkit to kickstart Redux apps, - Debug apps using Redux DevTools, - Design a Redux store, - Write clean, concise, maintainable Redux code, - Properly structure Redux code, - Handle asynchronous events with redux-thunk, - Use existing middleware or write your own, - Test Redux code, the right way, - Connect React and Redux using react-redux, - The popular tools in Redux ecosystem, - Industry best practices and recommended patterns, - Common mistakes that many Redux devs make
+
 ## Modern React with Redux
 
 |    Date   | Organization      | Link                        |
 |:---------:|:-----------------:|:----------------------------|
 | 30.07.19  | udemy.com         | https://www.udemy.com/react-redux/ |
 
-<img src="images/modern-react-with-redux.png" alt="front-end-libraries" width="350px"/>
+<img src="images/modern-react-with-redux.png" alt="modern-react-with-redux" width="350px"/>
 
 ## Styling React Component
 
