@@ -117,6 +117,14 @@ Score: 268 (98th Percentile!) 🔥🚀
 
 <img src="images/graphql-essential-training.png" alt="graphql-essential-training" width="300px"/>
 
+## Webpack 5 Complete Developers Guide
+
+|    Date      | Author        | Organization  | Link                        |
+|:------------:|:-------------:|:-------------:|:----------------------------|
+| 05 Apr 2021  | Eyas Matter   | udemy.com     | https://www.udemy.com/course/webpack-5-complete-developers-guide-2020/ |
+
+<img src="images/webpack-5-complete-developers-guide.png" alt="webpack-5-complete-developers-guide" width="350px"/>
+
 ## Webpack 4 Fundamentals
 
 |    Date   | Author        | Organization         | Link                        |
