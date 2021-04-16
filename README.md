@@ -56,6 +56,14 @@ Score: 268 (98th Percentile!) 🔥🚀
 
 <img src="images/javascript-expert.png" alt="javascript-expert" width="300px"/>
 
+## JavaScript The Hard Parts V2
+
+|    Date   |    Author      |     Organization    |           Link              |
+|:---------:|:------------- :|: ------------------:|:----------------------------|
+| 16.04.21  | Will Sentence  | frontendmasters.com | https://frontendmasters.com/courses/javascript-hard-parts-v2/ |
+
+<img src="images/javascript-the-hard-parts-v2.png" alt="javascript-the-hard-parts-v2" width="300px"/>
+
 ## JavaScript Algorithms and DataStructures Certification
 
 `Topics`: Basic JavaScript, **ES6**, Regular Expression, Debugging, Basic Data Structure, Intermediate Algorithm Scripting, **Object Oriented Programming**, **Functional Programming**, 
