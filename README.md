@@ -56,6 +56,16 @@ Score: 268 (98th Percentile!) 🔥🚀
 
 <img src="images/javascript-expert.png" alt="javascript-expert" width="300px"/>
 
+## Deep JavaScript Foundations, v3
+
+|    Date     |    Author    |     Organization    |           Link              |
+|:-----------:|:------------:|: ------------------:|:----------------------------|
+| 26 May 2021 | Kyle Simpson | frontendmasters.com | https://frontendmasters.com/courses/deep-javascript-v3 |
+
+<img src="images/deep-javascript-foundations-v3.png" alt="deep-javascript-foundations-v3" width="300px"/>
+
+Dive into the **core pillars of the JavaScript** language with Kyle Simpson, author of the popular, You Don't Know JS, book series!
+
 ## JavaScript The Hard Parts V2
 
 |    Date   |    Author      |     Organization    |           Link              |
