@@ -292,6 +292,20 @@ Dive into the **core pillars of the JavaScript** language with Kyle Simpson, aut
 
 # Data Visualization
 
+## Data Visualization using D3.js
+
+Data is all around us, but it doesn't mean much without shape or context. In the Data Visualization Certification, I've built `charts, graphs, and maps to present different types of data` with the D3.js library.
+
+I've also learnt about JSON and how to work with data online using an API.
+
+
+|    Date      |    Author     | Organization      | Link                        |
+|:------------:|:-------------:|:-----------------:|:----------------------------|
+| 28 Jun 2020  | freecodecamp  | freecodecamp.com   | https://www.freecodecamp.org/certification/sajibcse68/data-visualization |
+
+
+<img src="images/data-visualization.png" alt="data-visualization" width="300px"/>
+
 ## Data Visualization for React Developers
 
 **Topics:** ● The Basic Chart Types ● Introduction to SVG ● Data to SVG Shapes ● Line ● Radial ● Rendering with React ● Axes, Legends, Annotations ● Transitions ● Brush ● Canvas
@@ -314,6 +328,7 @@ Dive into the **core pillars of the JavaScript** language with Kyle Simpson, aut
 <img src="images/data-visualization-best-practices-cert.png" alt="data-visualization-best-practices-cert" width="300px"/>
 
 <img src="images/data-visualization-best-practices.png" alt="data-visualization-best-practices" width="300px" height="205"/>
+
 
 # HTML & CSS
 
