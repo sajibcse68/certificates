@@ -268,6 +268,16 @@ Dive into the **core pillars of the JavaScript** language with Kyle Simpson, aut
 
 <img src="images/react-fundamentals.jpg" alt="react-fundamentals" width="300px"/>
 
+# Typescript Courses
+
+## Configuring, Compiling, and Debugging TypeScript Projects
+
+|    Date      | Author       | Organization      | Link                        |
+|:------------:|:------------:|:-----------------:|:----------------------------|
+| 15 Oct 2021  | Daniel Stern | pluralsight.com   | https://app.pluralsight.com/library/courses/typescript-configuring-compiling-debugging-projects/table-of-contents |
+
+<img src="images/cert_configuring_compiling_and_debugging_typescript_projects.png" alt="cert_configuring_compiling_and_debugging_typescript_projects" width="350px"/>
+
 # Node.js Courses
 
 ## Node.js Debugging and Performance Tuning
