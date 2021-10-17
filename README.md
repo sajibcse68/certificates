@@ -30,6 +30,7 @@
   - [Data Visualization for React Developers](#data-visualization-for-react-developers)
   - [Data Visualization Best Practices](#data-visualization-best-practices)
 - [Node.js Courses](#nodejs-courses)
+  - [Building Web Applications with Node.js and Express](#building-web-applications-with-nodejs-and-express)
   - [Node.js Debugging and Performance Tuning](#nodejs-debugging-and-performance-tuning)
   - [Node.js Getting Started](#nodejs-getting-started)
 - [HTML & CSS](#html--css)
@@ -281,6 +282,14 @@ Dive into the **core pillars of the JavaScript** language with Kyle Simpson, aut
 <img src="images/cert_configuring_compiling_and_debugging_typescript_projects.png" alt="cert_configuring_compiling_and_debugging_typescript_projects" width="350px"/>
 
 # Node.js Courses
+
+## Building Web Applications with Node.js and Express
+
+|    Date     |   Author       | Organization   | Link                                                                   |
+| :---------: | :------------: | :--------------: | :--------------------------------------------------------------------- |
+| 17 Oct 2021 | Jonathan Mills |  pluralsight.com | https://app.pluralsight.com/library/courses/nodejs-express-web-applications-building |
+
+<img src="images/building-web-applications-with-nodejs-and-express.png" alt="building-web-applications-with-nodejs-and-express" width="300px"/>
 
 ## Node.js Debugging and Performance Tuning
 
