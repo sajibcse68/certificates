@@ -9,11 +9,6 @@
   - [JavaScript Console Object Ultimate Guide](#javascript-console-object-ultimate-guide)
   - [GraphQL Essential Training](#graphql-essential-training)
   - [Webpack 4 Fundamentals](#webpack-4-fundamentals)
-- [Vue.js Courses](#vuejs-courses)
-  - [Vue Advanced Components Course](#vue-advanced-components-course)
-  - [Scaling Vue with Nuxt.js](#scaling-vue-with-nuxtjs)
-  - [Mastering in Vuex Course](#mastering-in-vuex-course)
-  - [Real World Vue.js Course](#real-world-vuejs-course)
 - [React and Redux Courses](#react-and-redux-courses)
   - [Optimize Performance for React](#optimize-performance-for-react)
   - [Modern React with Redux](#modern-react-with-redux)
@@ -26,13 +21,18 @@
   - [React Fundamentals](#react-fundamentals)
 - [Typescript Courses](#typescript-courses)
   - [Configuring, Compiling, and Debugging TypeScript Projects](#configuring-compiling-and-debugging-typescript-projects)
-- [Data Visualization](#data-visualization)
-  - [Data Visualization for React Developers](#data-visualization-for-react-developers)
-  - [Data Visualization Best Practices](#data-visualization-best-practices)
 - [Node.js Courses](#nodejs-courses)
   - [Building Web Applications with Node.js and Express](#building-web-applications-with-nodejs-and-express)
   - [Node.js Debugging and Performance Tuning](#nodejs-debugging-and-performance-tuning)
   - [Node.js Getting Started](#nodejs-getting-started)
+- [Vue.js Courses](#vuejs-courses)
+  - [Vue Advanced Components Course](#vue-advanced-components-course)
+  - [Scaling Vue with Nuxt.js](#scaling-vue-with-nuxtjs)
+  - [Mastering in Vuex Course](#mastering-in-vuex-course)
+  - [Real World Vue.js Course](#real-world-vuejs-course)
+- [Data Visualization](#data-visualization)
+  - [Data Visualization for React Developers](#data-visualization-for-react-developers)
+  - [Data Visualization Best Practices](#data-visualization-best-practices)
 - [HTML & CSS](#html--css)
   - [Advanced Responsive Layouts with CSS Flexbox](#advanced-responsive-layouts-with-css-flexbox)
   - [The Ultimate HTML Developer](#the-ultimate-html-developer)
@@ -157,40 +157,6 @@ Dive into the **core pillars of the JavaScript** language with Kyle Simpson, aut
 
 **Description:** Learn the core concepts of Webpack 4 with Sean Larkin – maintainer of Webpack. You'll start entirely from scratch by adding webpack with npm and separate your dev and production environments. Then you'll learn to lazy load your JavaScript through code splitting, remove code you don't need through tree shaking, and control your entire build pipeline with popular loaders and plugins from the Webpack ecosystem. Be confident in building and shipping your code with Webpack – the open source bundler responsible for powering some of the most popular and high-performance web applications!
 
-# Vue.js Courses
-
-## `Vue Advanced` Components Course
-
-|   Date   |  Organization  | Link                                                                                                                                                 |
-| :------: | :------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 23.02.19 | vuemastery.com | [https://www.vuemastery.com/courses/advanced-components/the-introduction/](https://www.vuemastery.com/courses/advanced-components/the-introduction/) |
-
-<img src="images/advanced-components-course.png" alt="advanced-components-course" width="300px"/>
-
-## Scaling Vue with `Nuxt.js`
-
-|   Date   |  Organization  | Link                                                                                                                                                 |
-| :------: | :------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 14.03.20 | vuemastery.com | [https://www.vuemastery.com/courses/scaling-vue-with-nuxt-js/why-use-nuxt](https://www.vuemastery.com/courses/scaling-vue-with-nuxt-js/why-use-nuxt) |
-
-<img src="images/scaling-vue-with-nuxtjs.png" alt="scaling-vue-with-nuxtjs" width="300px"/>
-
-## Mastering in `Vuex` Course
-
-|   Date   |  Organization  | Link                                                                                                                               |
-| :------: | :------------: | :--------------------------------------------------------------------------------------------------------------------------------- |
-| 24.02.19 | vuemastery.com | [https://www.vuemastery.com/courses/mastering-vuex/intro-to-vuex](https://www.vuemastery.com/courses/mastering-vuex/intro-to-vuex) |
-
-<img src="images/mastering-vuex-course.png" alt="mastering-vuex-course" width="300px"/>
-
-## Real World `Vue.js` Course
-
-|   Date   |  Organization  | Link                                                                                                                                           |
-| :------: | :------------: | :--------------------------------------------------------------------------------------------------------------------------------------------- |
-| 23.02.19 | vuemastery.com | [https://www.vuemastery.com/courses/real-world-vue-js/real-world-intro](https://www.vuemastery.com/courses/real-world-vue-js/real-world-intro) |
-
-<img src="images/real-world-vuejs-course.png" alt="real-world-vuejs-course" width="300px"/>
-
 # React and Redux Courses
 
 ## Optimize Performance for React
@@ -310,6 +276,40 @@ Dive into the **core pillars of the JavaScript** language with Kyle Simpson, aut
 | 19 Apr 2020 | Samer Buna | pluralsight.com | https://app.pluralsight.com/library/courses/nodejs-getting-started |
 
 <img src="images/nodejs-getting-started.png" alt="nodejs-getting-started" width="300px"/>
+
+# Vue.js Courses
+
+## `Vue Advanced` Components Course
+
+|   Date   |  Organization  | Link                                                                                                                                                 |
+| :------: | :------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 23.02.19 | vuemastery.com | [https://www.vuemastery.com/courses/advanced-components/the-introduction/](https://www.vuemastery.com/courses/advanced-components/the-introduction/) |
+
+<img src="images/advanced-components-course.png" alt="advanced-components-course" width="300px"/>
+
+## Scaling Vue with `Nuxt.js`
+
+|   Date   |  Organization  | Link                                                                                                                                                 |
+| :------: | :------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 14.03.20 | vuemastery.com | [https://www.vuemastery.com/courses/scaling-vue-with-nuxt-js/why-use-nuxt](https://www.vuemastery.com/courses/scaling-vue-with-nuxt-js/why-use-nuxt) |
+
+<img src="images/scaling-vue-with-nuxtjs.png" alt="scaling-vue-with-nuxtjs" width="300px"/>
+
+## Mastering in `Vuex` Course
+
+|   Date   |  Organization  | Link                                                                                                                               |
+| :------: | :------------: | :--------------------------------------------------------------------------------------------------------------------------------- |
+| 24.02.19 | vuemastery.com | [https://www.vuemastery.com/courses/mastering-vuex/intro-to-vuex](https://www.vuemastery.com/courses/mastering-vuex/intro-to-vuex) |
+
+<img src="images/mastering-vuex-course.png" alt="mastering-vuex-course" width="300px"/>
+
+## Real World `Vue.js` Course
+
+|   Date   |  Organization  | Link                                                                                                                                           |
+| :------: | :------------: | :--------------------------------------------------------------------------------------------------------------------------------------------- |
+| 23.02.19 | vuemastery.com | [https://www.vuemastery.com/courses/real-world-vue-js/real-world-intro](https://www.vuemastery.com/courses/real-world-vue-js/real-world-intro) |
+
+<img src="images/real-world-vuejs-course.png" alt="real-world-vuejs-course" width="300px"/>
 
 # Data Visualization
 
