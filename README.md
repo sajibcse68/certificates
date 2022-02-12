@@ -14,8 +14,7 @@
   - [Modern React with Redux](#modern-react-with-redux)
   - [Styling React Component](#styling-react-component)
   - [Redux Saga](#redux-saga)
-  - [React: Components, Context and Accessibility]
-    (#react-components-context-and-accessibility)
+  - [React: Components, Context and Accessibility](#react-components-context-and-accessibility)
   - [React Vs Angular Vs Vue JS](#react-vs-angular-vs-vue-js)
   - [React Basics](#react-basics)
   - [React Fundamentals](#react-fundamentals)
@@ -25,6 +24,8 @@
   - [Building Web Applications with Node.js and Express](#building-web-applications-with-nodejs-and-express)
   - [Node.js Debugging and Performance Tuning](#nodejs-debugging-and-performance-tuning)
   - [Node.js Getting Started](#nodejs-getting-started)
+- [Blockchain and Ethereum Courses](#blockchain-and-ethereum-courses)
+  - [Blockchain Beyond the Basics](#blockchain-beyond-the-basics)
 - [Vue.js Courses](#vuejs-courses)
   - [Vue Advanced Components Course](#vue-advanced-components-course)
   - [Scaling Vue with Nuxt.js](#scaling-vue-with-nuxtjs)
@@ -276,6 +277,16 @@ Dive into the **core pillars of the JavaScript** language with Kyle Simpson, aut
 | 19 Apr 2020 | Samer Buna | pluralsight.com | https://app.pluralsight.com/library/courses/nodejs-getting-started |
 
 <img src="images/nodejs-getting-started.png" alt="nodejs-getting-started" width="300px"/>
+
+# Blockchain and Ethereum Courses
+
+## Blockchain Beyond the Basics
+
+|    Date     |   Author            | Organization   | Link                                                             |
+| :---------: | :-----------------: | :------------: | :------------------------------------------------------------- |
+| 13 Feb 2022 | Jonathan Reichental | linkedin.com   | https://www.linkedin.com/learning/blockchain-beyond-the-basics |
+
+<img src="images/blockchain-beyond-the-basics.png" alt="blockchain-beyond-the-basics" width="300px"/>
 
 # Vue.js Courses
 
