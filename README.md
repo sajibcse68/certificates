@@ -25,6 +25,7 @@
   - [Node.js Debugging and Performance Tuning](#nodejs-debugging-and-performance-tuning)
   - [Node.js Getting Started](#nodejs-getting-started)
 - [Blockchain and Ethereum Courses](#blockchain-and-ethereum-courses)
+  - [Metaverse and NFTs for Marketing](#metaverse-and-nfts-for-marketing)
   - [Blockchain Beyond the Basics](#blockchain-beyond-the-basics)
 - [Vue.js Courses](#vuejs-courses)
   - [Vue Advanced Components Course](#vue-advanced-components-course)
@@ -279,6 +280,15 @@ Dive into the **core pillars of the JavaScript** language with Kyle Simpson, aut
 <img src="images/nodejs-getting-started.png" alt="nodejs-getting-started" width="300px"/>
 
 # Blockchain and Ethereum Courses
+
+## Metaverse and NFTs for Marketing
+
+|    Date     |   Author        | Organization   | Link                                                               |
+| :---------: | :-------------: | :------------: | :----------------------------------------------------------------- |
+| 30 May 2022 | Catchy Hackl    | linkedin.com   | https://www.linkedin.com/learning/metaverse-and-nfts-for-marketing |
+
+<img src="images/metaverse-and-nfts-for-marketing.png" alt="metaverse-and-nfts-for-marketing" width="300px"/>
+
 
 ## Blockchain Beyond the Basics
 
