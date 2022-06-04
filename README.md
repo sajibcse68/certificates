@@ -19,6 +19,7 @@
   - [React Basics](#react-basics)
   - [React Fundamentals](#react-fundamentals)
 - [Typescript Courses](#typescript-courses)
+  - [Building React Apps with TypeScript](#building-react-apps-with-typescript)
   - [Configuring, Compiling, and Debugging TypeScript Projects](#configuring-compiling-and-debugging-typescript-projects)
 - [Node.js Courses](#nodejs-courses)
   - [Building Web Applications with Node.js and Express](#building-web-applications-with-nodejs-and-express)
@@ -241,11 +242,19 @@ Dive into the **core pillars of the JavaScript** language with Kyle Simpson, aut
 
 # Typescript Courses
 
+## Building React Apps with TypeScript
+
+|    Date     |    Author  |  Organization   | Link                                                                                                              |
+| :---------: | :--------: | :-------------: | :----------------- |
+| Nov 20 2021 | Mat Warger | pluralsight.com | https://app.pluralsight.com/library/courses/react-apps-typescript-building |
+
+<img src="images/building_react_apps_with_typescript.png" alt="building_react_apps_with_typescript" width="350px"/>
+
 ## Configuring, Compiling, and Debugging TypeScript Projects
 
 |    Date     |    Author    |  Organization   | Link                                                                                                              |
 | :---------: | :----------: | :-------------: | :---------------------------------------------------------------------------------------------------------------- |
-| 15 Oct 2021 | Daniel Stern | pluralsight.com | https://app.pluralsight.com/library/courses/typescript-configuring-compiling-debugging-projects/table-of-contents |
+| 15 Oct 2021 | Daniel Stern | pluralsight.com | https://app.pluralsight.com/library/courses/typescript-configuring-compiling-debugging-projects |
 
 <img src="images/cert_configuring_compiling_and_debugging_typescript_projects.png" alt="cert_configuring_compiling_and_debugging_typescript_projects" width="350px"/>
 
