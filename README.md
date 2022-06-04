@@ -11,6 +11,7 @@
   - [Webpack 4 Fundamentals](#webpack-4-fundamentals)
 - [React and Redux Courses](#react-and-redux-courses)
   - [Optimize Performance for React](#optimize-performance-for-react)
+  - [Advanced React.js](#advanced-reactjs)
   - [Modern React with Redux](#modern-react-with-redux)
   - [Styling React Component](#styling-react-component)
   - [Redux Saga](#redux-saga)
@@ -169,6 +170,14 @@ Dive into the **core pillars of the JavaScript** language with Kyle Simpson, aut
 | 20 Apr 2020 | Hendrik Swanepoel | pluralsight.com | https://app.pluralsight.com/library/courses/optimize-performance-react/ |
 
 <img src="images/optimize-performance-for-react.png" alt="optimize-performance-for-react" width="350px"/>
+
+## Advanced React.js
+
+|    Date     |  Author   |  Organization   | Link                                                                    |
+| :---------: | :-------: | :-------------: | :----------------- |
+| 1 May 2020 | Samer Buna | pluralsight.com | https://app.pluralsight.com/library/courses/reactjs-advanced |
+
+<img src="images/advanced_reactjs.png" alt="advanced_reactjs" width="350px"/>
 
 ## The Ultimate Redux Course
 
