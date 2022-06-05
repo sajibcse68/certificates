@@ -44,6 +44,8 @@
   - [Git in Depth](#git-in-depth)
   - [Git Real](#git-real)
 - [Miscellaneous](#miscellaneous)
+  - [Time Management for Professionals](#time-management-for-professionals)
+  - [Rock Your LinkedIn Profile](#rock-your-linkedin-profile)
   - [Get Involved](#get-involved)
   - [The Complete Google Go Programming Course](#the-complete-google-go-programming-course)
   - [Google Analytics: Basic Principles](#google-analytics-basic-principles)
@@ -426,6 +428,22 @@ I've also learnt about JSON and how to work with data online using an API.
 
 # Miscellaneous
 
+## Time Management for Professionals
+
+|    Date     | Organization | Link                                                           |
+| :---------: | :----------: | :------------------------------------------------------------- |
+| 03 Mar 2021 |  Udemy.com   | https://www.udemy.com/course/time-management-for-professionals |
+
+<img src="images/time_management_for_professionals.jpg" alt="time_management_for_professionals" width="300px"/>
+
+## Rock Your LinkedIn Profile
+
+|    Date     | Organization    | Link                                                           |
+| :---------: | :-------------: | :------------------------------------------------------------- |
+| 06 Jun 2021 |  linkedin.com   | https://www.linkedin.com/learning/rock-your-linkedin-profile |
+
+<img src="images/rock_your_linkedin_profile.png" alt="rock_your_linkedin_profile" width="300px"/>
+
 ## Get Involved
 
 |    Date     |  Organization   | Link                                                     |
@@ -451,14 +469,6 @@ I've also learnt about JSON and how to work with data online using an API.
 | 16.07.18 |  Udemy.com   | https://www.udemy.com/google-analytics-basic-principles/learn/v4/overview |
 
 <img src="images/analytics-basic-principles.jpg" alt="google-analytics-basic-principles" width="300px"/>
-
-## Time Management for Professionals
-
-|    Date     | Organization | Link                                                           |
-| :---------: | :----------: | :------------------------------------------------------------- |
-| 03 Mar 2021 |  Udemy.com   | https://www.udemy.com/course/time-management-for-professionals |
-
-<img src="images/time_management_for_professionals.jpg" alt="time_management_for_professionals" width="300px"/>
 
 ## Productivity Hacks: Easy, Quick & Effective
 
