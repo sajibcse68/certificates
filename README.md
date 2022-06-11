@@ -44,6 +44,7 @@
   - [Git in Depth](#git-in-depth)
   - [Git Real](#git-real)
 - [Miscellaneous](#miscellaneous)
+  - [Personal Productivity for Managers](#personal-productivity-for-managers)
   - [Time Management for Professionals](#time-management-for-professionals)
   - [Rock Your LinkedIn Profile](#rock-your-linkedin-profile)
   - [Get Involved](#get-involved)
@@ -175,8 +176,8 @@ Dive into the **core pillars of the JavaScript** language with Kyle Simpson, aut
 
 ## Advanced React.js
 
-|    Date     |  Author   |  Organization   | Link                                                                    |
-| :---------: | :-------: | :-------------: | :----------------- |
+|    Date    |   Author   |  Organization   | Link                                                         |
+| :--------: | :--------: | :-------------: | :----------------------------------------------------------- |
 | 1 May 2020 | Samer Buna | pluralsight.com | https://app.pluralsight.com/library/courses/reactjs-advanced |
 
 <img src="images/advanced_reactjs.png" alt="advanced_reactjs" width="350px"/>
@@ -255,16 +256,16 @@ Dive into the **core pillars of the JavaScript** language with Kyle Simpson, aut
 
 ## Building React Apps with TypeScript
 
-|    Date     |    Author  |  Organization   | Link                                                                                                              |
-| :---------: | :--------: | :-------------: | :----------------- |
+|    Date     |   Author   |  Organization   | Link                                                                       |
+| :---------: | :--------: | :-------------: | :------------------------------------------------------------------------- |
 | Nov 20 2021 | Mat Warger | pluralsight.com | https://app.pluralsight.com/library/courses/react-apps-typescript-building |
 
 <img src="images/building_react_apps_with_typescript.png" alt="building_react_apps_with_typescript" width="350px"/>
 
 ## Configuring, Compiling, and Debugging TypeScript Projects
 
-|    Date     |    Author    |  Organization   | Link                                                                                                              |
-| :---------: | :----------: | :-------------: | :---------------------------------------------------------------------------------------------------------------- |
+|    Date     |    Author    |  Organization   | Link                                                                                            |
+| :---------: | :----------: | :-------------: | :---------------------------------------------------------------------------------------------- |
 | 15 Oct 2021 | Daniel Stern | pluralsight.com | https://app.pluralsight.com/library/courses/typescript-configuring-compiling-debugging-projects |
 
 <img src="images/cert_configuring_compiling_and_debugging_typescript_projects.png" alt="cert_configuring_compiling_and_debugging_typescript_projects" width="350px"/>
@@ -273,9 +274,9 @@ Dive into the **core pillars of the JavaScript** language with Kyle Simpson, aut
 
 ## Building Web Applications with Node.js and Express
 
-|    Date     |   Author       | Organization   | Link                                                                   |
-| :---------: | :------------: | :--------------: | :--------------------------------------------------------------------- |
-| 17 Oct 2021 | Jonathan Mills |  pluralsight.com | https://app.pluralsight.com/library/courses/nodejs-express-web-applications-building |
+|    Date     |     Author     |  Organization   | Link                                                                                 |
+| :---------: | :------------: | :-------------: | :----------------------------------------------------------------------------------- |
+| 17 Oct 2021 | Jonathan Mills | pluralsight.com | https://app.pluralsight.com/library/courses/nodejs-express-web-applications-building |
 
 <img src="images/building-web-applications-with-nodejs-and-express.png" alt="building-web-applications-with-nodejs-and-express" width="300px"/>
 
@@ -303,18 +304,17 @@ Dive into the **core pillars of the JavaScript** language with Kyle Simpson, aut
 
 ## Metaverse and NFTs for Marketing
 
-|    Date     |   Author        | Organization   | Link                                                               |
-| :---------: | :-------------: | :------------: | :----------------------------------------------------------------- |
-| 30 May 2022 | Catchy Hackl    | linkedin.com   | https://www.linkedin.com/learning/metaverse-and-nfts-for-marketing |
+|    Date     |    Author    | Organization | Link                                                               |
+| :---------: | :----------: | :----------: | :----------------------------------------------------------------- |
+| 30 May 2022 | Catchy Hackl | linkedin.com | https://www.linkedin.com/learning/metaverse-and-nfts-for-marketing |
 
 <img src="images/metaverse-and-nfts-for-marketing.png" alt="metaverse-and-nfts-for-marketing" width="300px"/>
 
-
 ## Blockchain Beyond the Basics
 
-|    Date     |   Author            | Organization   | Link                                                             |
-| :---------: | :-----------------: | :------------: | :------------------------------------------------------------- |
-| 13 Feb 2022 | Jonathan Reichental | linkedin.com   | https://www.linkedin.com/learning/blockchain-beyond-the-basics |
+|    Date     |       Author        | Organization | Link                                                           |
+| :---------: | :-----------------: | :----------: | :------------------------------------------------------------- |
+| 13 Feb 2022 | Jonathan Reichental | linkedin.com | https://www.linkedin.com/learning/blockchain-beyond-the-basics |
 
 <img src="images/blockchain-beyond-the-basics.png" alt="blockchain-beyond-the-basics" width="300px"/>
 
@@ -428,6 +428,14 @@ I've also learnt about JSON and how to work with data online using an API.
 
 # Miscellaneous
 
+## Personal Productivity for Managers
+
+|    Date     | Organization | Link                                                                         |
+| :---------: | :----------: | :--------------------------------------------------------------------------- |
+| 11 Jun 2022 | linkedin.com | https://www.linkedin.com/learning/personal-productivity-for-product-managers |
+
+<img src="images/personal_productivity_for_product_managers.png" alt="personal_productivity_for_product_managers" width="300px"/>
+
 ## Time Management for Professionals
 
 |    Date     | Organization | Link                                                           |
@@ -438,9 +446,9 @@ I've also learnt about JSON and how to work with data online using an API.
 
 ## Rock Your LinkedIn Profile
 
-|    Date     | Organization    | Link                                                           |
-| :---------: | :-------------: | :------------------------------------------------------------- |
-| 06 Jun 2021 |  linkedin.com   | https://www.linkedin.com/learning/rock-your-linkedin-profile |
+|    Date     | Organization | Link                                                         |
+| :---------: | :----------: | :----------------------------------------------------------- |
+| 06 Jun 2021 | linkedin.com | https://www.linkedin.com/learning/rock-your-linkedin-profile |
 
 <img src="images/rock_your_linkedin_profile.png" alt="rock_your_linkedin_profile" width="300px"/>
 
