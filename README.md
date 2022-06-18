@@ -44,6 +44,7 @@
   - [Git in Depth](#git-in-depth)
   - [Git Real](#git-real)
 - [Miscellaneous](#miscellaneous)
+  - [Leading with a Heavy Heart](#leading-with-a-heavy-heart)
   - [Personal Productivity for Managers](#personal-productivity-for-managers)
   - [Time Management for Professionals](#time-management-for-professionals)
   - [Rock Your LinkedIn Profile](#rock-your-linkedin-profile)
@@ -427,6 +428,14 @@ I've also learnt about JSON and how to work with data online using an API.
 <img src="images/completed-git-real.png" alt="git-real" width="300px"/>
 
 # Miscellaneous
+
+## Leading with a Heavy Heart
+
+|    Date     | Organization | Link                                                         |
+| :---------: | :----------: | :----------------------------------------------------------- |
+| 18 Jun 2022 | linkedin.com | https://www.linkedin.com/learning/leading-with-a-heavy-heart |
+
+<img src="images/leading_with_a_heavy_heart.png" alt="leading_with_a_heavy_heart" width="300px"/>
 
 ## Personal Productivity for Managers
 
