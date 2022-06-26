@@ -20,6 +20,7 @@
   - [React Basics](#react-basics)
   - [React Fundamentals](#react-fundamentals)
 - [Typescript Courses](#typescript-courses)
+  - [Typescript Essential Training](#typescript-essential-training)
   - [Building React Apps with TypeScript](#building-react-apps-with-typescript)
   - [Configuring, Compiling, and Debugging TypeScript Projects](#configuring-compiling-and-debugging-typescript-projects)
 - [Node.js Courses](#nodejs-courses)
@@ -254,6 +255,14 @@ Dive into the **core pillars of the JavaScript** language with Kyle Simpson, aut
 <img src="images/react-fundamentals.jpg" alt="react-fundamentals" width="300px"/>
 
 # Typescript Courses
+
+## Typescript Essential Training
+
+|    Date     |   Author   |  Organization   | Link                                                                       |
+| :---------: | :--------: | :-------------: | :------------------------------------------------------------------------- |
+| Jun 26 2022 | Jess Chadwick | linkedin.com | https://linkedin.com/learning/typescript-essential-training-14687057 |
+
+<img src="images/typescript_essential_training.png" alt="typescript_essential_training" width="350px"/>
 
 ## Building React Apps with TypeScript
 
