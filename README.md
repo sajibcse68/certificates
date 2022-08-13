@@ -2,6 +2,9 @@
 
 - [JavaScript Courses](#javascript-courses)
   - [EXPERT in JavaScript -- Skill Assessment at Pluralsight](#expert-in-javascript----skill-assessment-at-pluralsight)
+  - [Deep JavaScript Foundations, v3](#deep-javascript-foundations-v3)
+  - [JavaScript Security: Best Practices](#javascript-security-best-practices)
+  - [JavaScript The Hard Parts V2](#javascript-the-hard-parts-v2)
   - [JavaScript Algorithms and DataStructures Certification](#javascript-algorithms-and-datastructures-certification)
   - [Front End Libraries](#front-end-libraries)
   - [JavaScript Generators and Iterators](#javascript-generators-and-iterators)
@@ -79,6 +82,14 @@ Score: 268 (98th Percentile!) 🔥🚀
 <img src="images/deep-javascript-foundations-v3.png" alt="deep-javascript-foundations-v3" width="300px"/>
 
 Dive into the **core pillars of the JavaScript** language with Kyle Simpson, author of the popular, You Don't Know JS, book series!
+
+## JavaScript Security: Best Practices
+
+|    Date     |    Author    |    Organization  | Link                                                   |
+| :---------: | :----------: | :--------------: | :----------------------------------------------------- |
+| 14 Aug 2022 | Marcin Hoppe | pluralsight.com  | https://app.pluralsight.com/library/courses/javascript-security-best-practices |
+
+<img src="images/javascript_security-best_practices.png" alt="javascript_security-best_practices" width="300px"/>
 
 ## JavaScript The Hard Parts V2
 
