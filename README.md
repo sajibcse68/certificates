@@ -48,6 +48,7 @@
   - [Git in Depth](#git-in-depth)
   - [Git Real](#git-real)
 - [Miscellaneous](#miscellaneous)
+  - [The Step-by-Step Guide to Building your Thought Leadership on LinkedIn](#the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin)
   - [Leading with a Heavy Heart](#leading-with-a-heavy-heart)
   - [Personal Productivity for Managers](#personal-productivity-for-managers)
   - [Time Management for Professionals](#time-management-for-professionals)
@@ -448,6 +449,14 @@ I've also learnt about JSON and how to work with data online using an API.
 <img src="images/completed-git-real.png" alt="git-real" width="300px"/>
 
 # Miscellaneous
+
+## The Step-by-Step Guide to Building your Thought Leadership on LinkedIn
+
+|    Date     | Organization | Link                                                         |
+| :---------: | :----------: | :----------------------------------------------------------- |
+| 04 Oct 2024 | linkedin.com | https://www.linkedin.com/learning/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedin/why-become-a-thought-leader-on-linkedin |
+
+<img src="images/the-step-by-step-guide-to-building-your-thought-leadership-on-linkedIn.png" alt="the-step-by-step-guide-to-building-your-thought-leadership-on-linkedIn" width="300px"/>
 
 ## Leading with a Heavy Heart
 
