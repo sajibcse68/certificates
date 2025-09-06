@@ -5,8 +5,8 @@
   - [Deep JavaScript Foundations, v3](#deep-javascript-foundations-v3)
   - [JavaScript Security: Best Practices](#javascript-security-best-practices)
   - [JavaScript The Hard Parts V2](#javascript-the-hard-parts-v2)
-  - [JavaScript Algorithms and DataStructures Certification](#javascript-algorithms-and-datastructures-certification)
-  - [Front End Libraries](#front-end-libraries)
+  - [JavaScript Algorithms and Data Structures](#javascript-algorithms-and-data-structures)
+  - [Front End Development Libraries](#front-end-development-libraries)
   - [JavaScript Generators and Iterators](#javascript-generators-and-iterators)
   - [Working with JavaScript Modules](#working-with-javascript-modules)
   - [JavaScript Console Object Ultimate Guide](#javascript-console-object-ultimate-guide)
@@ -100,7 +100,7 @@ Dive into the **core pillars of the JavaScript** language with Kyle Simpson, aut
 
 <img src="images/javascript-the-hard-parts-v2.png" alt="javascript-the-hard-parts-v2" width="300px"/>
 
-## JavaScript Algorithms and DataStructures Certification
+## JavaScript Algorithms and Data Structures
 
 `Topics`: Basic JavaScript, **ES6**, Regular Expression, Debugging, Basic Data Structure, Intermediate Algorithm Scripting, **Object Oriented Programming**, **Functional Programming**,
 
@@ -110,15 +110,15 @@ Dive into the **core pillars of the JavaScript** language with Kyle Simpson, aut
 
 <img src="images/fcc-JavaScript-algorithms-and-data-structures-certification.png" alt="JavaScript-algorithms-and-data-structures-certification" width="300px"/>
 
-## Front End Libraries
+## Front End Development Libraries
 
 `Topics`: **React**, **Redux**, Bootstrap, jQuery
 
 |   Date   |   Organization   | Link                                                                      |
 | :------: | :--------------: | :------------------------------------------------------------------------ |
-| 20.04.19 | freecodecamp.com | https://www.freecodecamp.org/certification/sajibcse68/front-end-libraries |
+| 20.04.19 | freecodecamp.com | https://www.freecodecamp.org/certification/sajibcse68/front-end-development-libraries |
 
-<img src="images/fcc-front-end-libraries.png" alt="front-end-libraries" width="300px"/>
+<img src="images/front-end-development-libraries.png" alt="front-end-development-libraries" width="300px"/>
 
 ## JavaScript Generators and Iterators
 
